@@ -1,0 +1,9 @@
+process,segment,snapshot_serial
+rendererA,s0,65020
+rendererA,s1,180
+rendererB,s0,65340
+rendererB,s1,420
+workerA,s0,64880
+workerA,s1,260
+workerB,s0,65210
+workerB,s1,700

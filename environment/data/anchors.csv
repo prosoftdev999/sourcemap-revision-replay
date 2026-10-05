@@ -1,0 +1,17 @@
+anchor_id,revision,chunk,asset_offset_bytes,source,line,column,name
+A-r17-shell-0,r17,shell.js,2533,src/ui/ToastHost.tsx,100,7,flushToast
+A-r17-shell-1,r17,shell.js,1006,src/ui/ToastHost.tsx,142,14,flushToast
+A-r17-editor-0,r17,editor.js,4929,src/editor/SelectionModel.ts,150,16,commitSelection
+A-r17-editor-1,r17,editor.js,1005,src/telemetry/ErrorBridge.ts,127,2,captureFault
+A-r18-shell-0,r18,shell.js,4928,src/router/RouteBoundary.tsx,159,13,applyRoute
+A-r18-shell-1,r18,shell.js,1005,src/telemetry/ErrorBridge.ts,156,15,captureFault
+A-r18-editor-0,r18,editor.js,2532,src/editor/DocumentPane.tsx,119,12,paintDocument
+A-r18-editor-1,r18,editor.js,1008,src/editor/DocumentPane.tsx,141,3,paintDocument
+A-r19-shell-0,r19,shell.js,2533,src/app/AppShell.tsx,128,9,commitShell
+A-r19-shell-1,r19,shell.js,1008,src/app/AppShell.tsx,170,16,commitShell
+A-r19-editor-0,r19,editor.js,4931,src/telemetry/ErrorBridge.ts,178,18,captureFault
+A-r19-editor-1,r19,editor.js,1006,src/editor/SelectionModel.ts,155,4,commitSelection
+A-r20-shell-0,r20,shell.js,4931,src/telemetry/ErrorBridge.ts,187,15,captureFault
+A-r20-shell-1,r20,shell.js,1006,src/ui/ToastHost.tsx,184,17,flushToast
+A-r20-editor-0,r20,editor.js,2530,src/editor/Toolbar.tsx,147,14,syncToolbar
+A-r20-editor-1,r20,editor.js,1005,src/telemetry/ErrorBridge.ts,169,5,captureFault

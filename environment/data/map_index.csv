@@ -1,0 +1,17 @@
+revision,chunk,candidate,map_path
+r17,shell.js,c1,maps/r17/shell.c1.map
+r17,shell.js,c2,maps/r17/shell.c2.map
+r17,editor.js,c1,maps/r17/editor.c1.map
+r17,editor.js,c2,maps/r17/editor.c2.map
+r18,shell.js,c1,maps/r18/shell.c1.map
+r18,shell.js,c2,maps/r18/shell.c2.map
+r18,editor.js,c1,maps/r18/editor.c1.map
+r18,editor.js,c2,maps/r18/editor.c2.map
+r19,shell.js,c1,maps/r19/shell.c1.map
+r19,shell.js,c2,maps/r19/shell.c2.map
+r19,editor.js,c1,maps/r19/editor.c1.map
+r19,editor.js,c2,maps/r19/editor.c2.map
+r20,shell.js,c1,maps/r20/shell.c1.map
+r20,shell.js,c2,maps/r20/shell.c2.map
+r20,editor.js,c1,maps/r20/editor.c1.map
+r20,editor.js,c2,maps/r20/editor.c2.map

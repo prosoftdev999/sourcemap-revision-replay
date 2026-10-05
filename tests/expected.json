@@ -1,0 +1,5600 @@
+{
+  "async_frames": [
+    {
+      "column": 15,
+      "event_id": "ER9XGN2L",
+      "frame_id": "Q25MZ3PLGG",
+      "line": 185,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 6,
+      "event_id": "EEVA3FST",
+      "frame_id": "Q4HS6ES5L4",
+      "line": 129,
+      "name": "paintDocument",
+      "revision": "r17",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 10,
+      "event_id": "ECJY8D8B",
+      "frame_id": "Q57PCLYXKG",
+      "line": 116,
+      "name": "paintDocument",
+      "revision": "r17",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 10,
+      "event_id": "EUGPPSZV",
+      "frame_id": "Q5HPSJL89Q",
+      "line": 195,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 8,
+      "event_id": "ENAKKBY8",
+      "frame_id": "Q6LPDGWN6F",
+      "line": 89,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 8,
+      "event_id": "EU9J8AZ3",
+      "frame_id": "Q6UTTQQSTT",
+      "line": 147,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 6,
+      "event_id": "E64289YB",
+      "frame_id": "Q6YHDDUZ6X",
+      "line": 93,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 3,
+      "event_id": "EPTP4MV4",
+      "frame_id": "Q75A6NBA3J",
+      "line": 150,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 10,
+      "event_id": "EQQNHDMQ",
+      "frame_id": "Q75M9CW7ZP",
+      "line": 143,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 2,
+      "event_id": "E9H75L49",
+      "frame_id": "Q9LGTFZHUA",
+      "line": 109,
+      "name": "syncToolbar",
+      "revision": "r17",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 8,
+      "event_id": "ED4U7BC5",
+      "frame_id": "Q9NFYHT95M",
+      "line": 175,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 8,
+      "event_id": "EDPHWQW6",
+      "frame_id": "QAGKE8XKDF",
+      "line": 71,
+      "name": "applyRoute",
+      "revision": "r19",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 14,
+      "event_id": "ESX3XZZ4",
+      "frame_id": "QCHZHGFVXX",
+      "line": 198,
+      "name": "applyRoute",
+      "revision": "r20",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 14,
+      "event_id": "EGKSTQMN",
+      "frame_id": "QDTUR4DKLT",
+      "line": 115,
+      "name": "applyRoute",
+      "revision": "r17",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 4,
+      "event_id": "EZ5AE844",
+      "frame_id": "QE2WFK6VBQ",
+      "line": 111,
+      "name": "flushToast",
+      "revision": "r19",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 10,
+      "event_id": "ER5KPY39",
+      "frame_id": "QE8AWAZKUT",
+      "line": 131,
+      "name": "applyRoute",
+      "revision": "r17",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 2,
+      "event_id": "E55NDHSQ",
+      "frame_id": "QEGFFT8E9S",
+      "line": 115,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 13,
+      "event_id": "ECW8ZMLJ",
+      "frame_id": "QEGV4H4JTK",
+      "line": 90,
+      "name": "captureFault",
+      "revision": "r20",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 2,
+      "event_id": "EADT2T2W",
+      "frame_id": "QELWQ2LNMX",
+      "line": 109,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 3,
+      "event_id": "E6G9XQ89",
+      "frame_id": "QFNPQ2ETBY",
+      "line": 46,
+      "name": "syncToolbar",
+      "revision": "r18",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 6,
+      "event_id": "EUM5MA8Z",
+      "frame_id": "QG974HVMV7",
+      "line": 147,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 15,
+      "event_id": "EYT7NAT8",
+      "frame_id": "QGAPRL3FH7",
+      "line": 43,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 13,
+      "event_id": "ENSG57YR",
+      "frame_id": "QGS3SLJQS7",
+      "line": 159,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 14,
+      "event_id": "EHHNZN4X",
+      "frame_id": "QGSHKGMLCS",
+      "line": 59,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 14,
+      "event_id": "ERNGXV9H",
+      "frame_id": "QH4B7FN5BB",
+      "line": 115,
+      "name": "applyRoute",
+      "revision": "r17",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 11,
+      "event_id": "EN9NABZ5",
+      "frame_id": "QH574QKP3U",
+      "line": 53,
+      "name": "paintDocument",
+      "revision": "r18",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 6,
+      "event_id": "E3PCQBHC",
+      "frame_id": "QHN9TFXYJK",
+      "line": 236,
+      "name": "applyRoute",
+      "revision": "r20",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 6,
+      "event_id": "ENX8LWLR",
+      "frame_id": "QJ9MHTQ97N",
+      "line": 147,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 2,
+      "event_id": "E3BSNP25",
+      "frame_id": "QJR6Q7D2J7",
+      "line": 97,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 12,
+      "event_id": "EWHMMRK9",
+      "frame_id": "QJX533L8W5",
+      "line": 85,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 17,
+      "event_id": "EFWBU7LE",
+      "frame_id": "QK6UBBWPVP",
+      "line": 144,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 10,
+      "event_id": "EQZPEESJ",
+      "frame_id": "QKP7L6VT8Y",
+      "line": 211,
+      "name": "applyRoute",
+      "revision": "r20",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 4,
+      "event_id": "EHBH37T9",
+      "frame_id": "QLPDYLQRS7",
+      "line": 136,
+      "name": "captureFault",
+      "revision": "r18",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 2,
+      "event_id": "E6W8N9V6",
+      "frame_id": "QLPKJ4DQLC",
+      "line": 68,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 11,
+      "event_id": "EAGHB75V",
+      "frame_id": "QLPQ3JBYWZ",
+      "line": 53,
+      "name": "paintDocument",
+      "revision": "r18",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 5,
+      "event_id": "E6CVU7H3",
+      "frame_id": "QLYZABHURP",
+      "line": 187,
+      "name": "captureFault",
+      "revision": "r20",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 13,
+      "event_id": "EXNY76CU",
+      "frame_id": "QM9CL74RG6",
+      "line": 159,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 11,
+      "event_id": "EH8MVP5V",
+      "frame_id": "QMC78E7GVY",
+      "line": 82,
+      "name": "captureFault",
+      "revision": "r18",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 2,
+      "event_id": "E5Q4KG7U",
+      "frame_id": "QMT8LGC2WD",
+      "line": 97,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 16,
+      "event_id": "EGDK3EQW",
+      "frame_id": "QNQ9YDLV2J",
+      "line": 150,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 6,
+      "event_id": "EM4XNQUA",
+      "frame_id": "QQPLKL2SZP",
+      "line": 93,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 14,
+      "event_id": "EGWW7FAQ",
+      "frame_id": "QQUPFHUW8M",
+      "line": 234,
+      "name": "flushToast",
+      "revision": "r20",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 8,
+      "event_id": "EPRW58KT",
+      "frame_id": "QSG7WU86GC",
+      "line": 230,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 4,
+      "event_id": "E8UQXGH2",
+      "frame_id": "QSHCCAAUDY",
+      "line": 110,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 3,
+      "event_id": "ECNFK2Z5",
+      "frame_id": "QSL5QU6RS4",
+      "line": 46,
+      "name": "syncToolbar",
+      "revision": "r18",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 14,
+      "event_id": "E6TFYAPK",
+      "frame_id": "QTNZ5EP2WK",
+      "line": 234,
+      "name": "syncToolbar",
+      "revision": "r20",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 7,
+      "event_id": "E3SQKCBF",
+      "frame_id": "QUCMEHMAX8",
+      "line": 199,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 14,
+      "event_id": "E9VQ5QTZ",
+      "frame_id": "QUKV6GQU7Y",
+      "line": 210,
+      "name": "commitSelection",
+      "revision": "r20",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 3,
+      "event_id": "EMLVNYZL",
+      "frame_id": "QVU2VXXZJY",
+      "line": 150,
+      "name": "commitSelection",
+      "revision": "r18",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 15,
+      "event_id": "E3VXHSLY",
+      "frame_id": "QW3C38A87H",
+      "line": 43,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 16,
+      "event_id": "E4DL9ALD",
+      "frame_id": "QYBCZZK6NT",
+      "line": 96,
+      "name": "paintDocument",
+      "revision": "r19",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 6,
+      "event_id": "EAS9TZK7",
+      "frame_id": "QZGZD3VSM8",
+      "line": 176,
+      "name": "syncToolbar",
+      "revision": "r20",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 7,
+      "event_id": "E9KR7HHM",
+      "frame_id": "QZSQKMMY2W",
+      "line": 146,
+      "name": "commitSelection",
+      "revision": "r18",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 12,
+      "event_id": "ENAJUER8",
+      "frame_id": "QZXEM6QPPF",
+      "line": 143,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    }
+  ],
+  "causal_roots": [
+    {
+      "incident_id": "I001",
+      "latency_ms": 222.726,
+      "signature": "src/router/RouteBoundary.tsx:applyRoute",
+      "trigger_event_id": "EGKSTQMN",
+      "trigger_frame_id": "QDTUR4DKLT"
+    },
+    {
+      "incident_id": "I002",
+      "latency_ms": 231.979,
+      "signature": "src/editor/DocumentPane.tsx:paintDocument",
+      "trigger_event_id": "EN9NABZ5",
+      "trigger_frame_id": "QH574QKP3U"
+    },
+    {
+      "incident_id": "I003",
+      "latency_ms": 216.246,
+      "signature": "src/editor/SelectionModel.ts:commitSelection",
+      "trigger_event_id": "EUM5MA8Z",
+      "trigger_frame_id": "QG974HVMV7"
+    },
+    {
+      "incident_id": "I004",
+      "latency_ms": 224.894,
+      "signature": "src/router/RouteBoundary.tsx:applyRoute",
+      "trigger_event_id": "EXNY76CU",
+      "trigger_frame_id": "QM9CL74RG6"
+    },
+    {
+      "incident_id": "I005",
+      "latency_ms": 223.892,
+      "signature": "src/ui/ToastHost.tsx:flushToast",
+      "trigger_event_id": "E64289YB",
+      "trigger_frame_id": "Q6YHDDUZ6X"
+    },
+    {
+      "incident_id": "I006",
+      "latency_ms": 254.087,
+      "signature": "src/editor/SelectionModel.ts:commitSelection",
+      "trigger_event_id": "EMLVNYZL",
+      "trigger_frame_id": "QVU2VXXZJY"
+    },
+    {
+      "incident_id": "I007",
+      "latency_ms": 246.303,
+      "signature": "src/editor/SelectionModel.ts:commitSelection",
+      "trigger_event_id": "E9KR7HHM",
+      "trigger_frame_id": "QZSQKMMY2W"
+    },
+    {
+      "incident_id": "I008",
+      "latency_ms": 195.608,
+      "signature": "src/router/RouteBoundary.tsx:applyRoute",
+      "trigger_event_id": "EPTP4MV4",
+      "trigger_frame_id": "Q75A6NBA3J"
+    },
+    {
+      "incident_id": "I009",
+      "latency_ms": 251.161,
+      "signature": "src/router/RouteBoundary.tsx:applyRoute",
+      "trigger_event_id": "E3VXHSLY",
+      "trigger_frame_id": "QW3C38A87H"
+    },
+    {
+      "incident_id": "I010",
+      "latency_ms": 282.587,
+      "signature": "src/editor/SelectionModel.ts:commitSelection",
+      "trigger_event_id": "EGDK3EQW",
+      "trigger_frame_id": "QNQ9YDLV2J"
+    },
+    {
+      "incident_id": "I011",
+      "latency_ms": 219.345,
+      "signature": "src/editor/SelectionModel.ts:commitSelection",
+      "trigger_event_id": "EQQNHDMQ",
+      "trigger_frame_id": "Q75M9CW7ZP"
+    },
+    {
+      "incident_id": "I012",
+      "latency_ms": 180.408,
+      "signature": "src/editor/DocumentPane.tsx:paintDocument",
+      "trigger_event_id": "ECJY8D8B",
+      "trigger_frame_id": "Q57PCLYXKG"
+    },
+    {
+      "incident_id": "I013",
+      "latency_ms": 197.508,
+      "signature": "src/ui/ToastHost.tsx:flushToast",
+      "trigger_event_id": "E3BSNP25",
+      "trigger_frame_id": "QJR6Q7D2J7"
+    },
+    {
+      "incident_id": "I014",
+      "latency_ms": 254.573,
+      "signature": "src/editor/Toolbar.tsx:syncToolbar",
+      "trigger_event_id": "E6G9XQ89",
+      "trigger_frame_id": "QFNPQ2ETBY"
+    },
+    {
+      "incident_id": "I015",
+      "latency_ms": 205.583,
+      "signature": "src/ui/ToastHost.tsx:flushToast",
+      "trigger_event_id": "EADT2T2W",
+      "trigger_frame_id": "QELWQ2LNMX"
+    },
+    {
+      "incident_id": "I016",
+      "latency_ms": 255.961,
+      "signature": "src/editor/Toolbar.tsx:syncToolbar",
+      "trigger_event_id": "E9H75L49",
+      "trigger_frame_id": "Q9LGTFZHUA"
+    },
+    {
+      "incident_id": "I017",
+      "latency_ms": 221.691,
+      "signature": "src/editor/DocumentPane.tsx:paintDocument",
+      "trigger_event_id": "EEVA3FST",
+      "trigger_frame_id": "Q4HS6ES5L4"
+    },
+    {
+      "incident_id": "I018",
+      "latency_ms": 259.528,
+      "signature": "src/router/RouteBoundary.tsx:applyRoute",
+      "trigger_event_id": "ER5KPY39",
+      "trigger_frame_id": "QE8AWAZKUT"
+    }
+  ],
+  "frames": [
+    {
+      "column": 2,
+      "frame_id": "F001-0",
+      "line": 115,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 16,
+      "frame_id": "F001-1",
+      "line": 150,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 14,
+      "frame_id": "F001-2",
+      "line": 115,
+      "name": "applyRoute",
+      "revision": "r17",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 6,
+      "frame_id": "F001-3",
+      "line": 129,
+      "name": "paintDocument",
+      "revision": "r17",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 14,
+      "frame_id": "F002-0",
+      "line": 154,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 6,
+      "frame_id": "F002-1",
+      "line": 93,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 10,
+      "frame_id": "F002-2",
+      "line": 116,
+      "name": "paintDocument",
+      "revision": "r17",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 3,
+      "frame_id": "F002-3",
+      "line": 140,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 2,
+      "frame_id": "F003-0",
+      "line": 97,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 2,
+      "frame_id": "F003-1",
+      "line": 109,
+      "name": "syncToolbar",
+      "revision": "r17",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 10,
+      "frame_id": "F003-2",
+      "line": 131,
+      "name": "applyRoute",
+      "revision": "r17",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 10,
+      "frame_id": "F003-3",
+      "line": 143,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 2,
+      "frame_id": "F004-0",
+      "line": 68,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 2,
+      "frame_id": "F004-1",
+      "line": 109,
+      "name": "flushToast",
+      "revision": "r17",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 6,
+      "frame_id": "F004-2",
+      "line": 147,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 7,
+      "frame_id": "F004-3",
+      "line": 199,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 13,
+      "frame_id": "F005-0",
+      "line": 159,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 7,
+      "frame_id": "F005-1",
+      "line": 146,
+      "name": "commitSelection",
+      "revision": "r18",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 15,
+      "frame_id": "F005-2",
+      "line": 43,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 11,
+      "frame_id": "F005-3",
+      "line": 53,
+      "name": "paintDocument",
+      "revision": "r18",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 3,
+      "frame_id": "F006-0",
+      "line": 150,
+      "name": "commitSelection",
+      "revision": "r18",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 3,
+      "frame_id": "F006-1",
+      "line": 150,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 3,
+      "frame_id": "F006-2",
+      "line": 46,
+      "name": "syncToolbar",
+      "revision": "r18",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 9,
+      "frame_id": "F006-3",
+      "line": 217,
+      "name": "captureFault",
+      "revision": "r18",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 15,
+      "frame_id": "F007-0",
+      "line": 185,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 6,
+      "frame_id": "F007-1",
+      "line": 165,
+      "name": "syncToolbar",
+      "revision": "r17",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 2,
+      "frame_id": "F007-2",
+      "line": 163,
+      "name": "applyRoute",
+      "revision": "r17",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 14,
+      "frame_id": "F007-3",
+      "line": 59,
+      "name": "commitSelection",
+      "revision": "r17",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 3,
+      "frame_id": "F008-0",
+      "line": 93,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 14,
+      "frame_id": "F008-1",
+      "line": 47,
+      "name": "commitShell",
+      "revision": "r17",
+      "source": "src/app/AppShell.tsx"
+    },
+    {
+      "column": 6,
+      "frame_id": "F008-2",
+      "line": 37,
+      "name": "syncToolbar",
+      "revision": "r17",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 8,
+      "frame_id": "F008-3",
+      "line": 230,
+      "name": "captureFault",
+      "revision": "r17",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 18,
+      "frame_id": "F009-0",
+      "line": 178,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 8,
+      "frame_id": "F009-1",
+      "line": 71,
+      "name": "applyRoute",
+      "revision": "r19",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 12,
+      "frame_id": "F009-2",
+      "line": 85,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 4,
+      "frame_id": "F009-3",
+      "line": 111,
+      "name": "flushToast",
+      "revision": "r19",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 10,
+      "frame_id": "F010-0",
+      "line": 195,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 8,
+      "frame_id": "F010-1",
+      "line": 89,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 8,
+      "frame_id": "F010-2",
+      "line": 98,
+      "name": "flushToast",
+      "revision": "r19",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 4,
+      "frame_id": "F010-3",
+      "line": 110,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 6,
+      "frame_id": "F011-0",
+      "line": 220,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 8,
+      "frame_id": "F011-1",
+      "line": 98,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 17,
+      "frame_id": "F011-2",
+      "line": 141,
+      "name": "flushToast",
+      "revision": "r19",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 9,
+      "frame_id": "F011-3",
+      "line": 146,
+      "name": "commitSelection",
+      "revision": "r19",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 16,
+      "frame_id": "F012-0",
+      "line": 96,
+      "name": "paintDocument",
+      "revision": "r19",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 9,
+      "frame_id": "F012-1",
+      "line": 119,
+      "name": "commitShell",
+      "revision": "r19",
+      "source": "src/app/AppShell.tsx"
+    },
+    {
+      "column": 17,
+      "frame_id": "F012-2",
+      "line": 144,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 8,
+      "frame_id": "F012-3",
+      "line": 175,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 11,
+      "frame_id": "F013-0",
+      "line": 82,
+      "name": "captureFault",
+      "revision": "r18",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 13,
+      "frame_id": "F013-1",
+      "line": 148,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 12,
+      "frame_id": "F013-2",
+      "line": 143,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 5,
+      "frame_id": "F013-3",
+      "line": 162,
+      "name": "commitSelection",
+      "revision": "r19",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 8,
+      "frame_id": "F014-0",
+      "line": 97,
+      "name": "captureFault",
+      "revision": "r19",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 8,
+      "frame_id": "F014-1",
+      "line": 147,
+      "name": "applyRoute",
+      "revision": "r18",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 13,
+      "frame_id": "F014-2",
+      "line": 160,
+      "name": "syncToolbar",
+      "revision": "r19",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 4,
+      "frame_id": "F014-3",
+      "line": 136,
+      "name": "captureFault",
+      "revision": "r18",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 15,
+      "frame_id": "F015-0",
+      "line": 187,
+      "name": "captureFault",
+      "revision": "r20",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 6,
+      "frame_id": "F015-1",
+      "line": 176,
+      "name": "syncToolbar",
+      "revision": "r20",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 10,
+      "frame_id": "F015-2",
+      "line": 211,
+      "name": "applyRoute",
+      "revision": "r20",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 14,
+      "frame_id": "F015-3",
+      "line": 210,
+      "name": "commitSelection",
+      "revision": "r20",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 5,
+      "frame_id": "F016-0",
+      "line": 187,
+      "name": "captureFault",
+      "revision": "r20",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 14,
+      "frame_id": "F016-1",
+      "line": 198,
+      "name": "applyRoute",
+      "revision": "r20",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 10,
+      "frame_id": "F016-2",
+      "line": 214,
+      "name": "commitSelection",
+      "revision": "r20",
+      "source": "src/editor/SelectionModel.ts"
+    },
+    {
+      "column": 6,
+      "frame_id": "F016-3",
+      "line": 200,
+      "name": "captureFault",
+      "revision": "r20",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 13,
+      "frame_id": "F017-0",
+      "line": 90,
+      "name": "captureFault",
+      "revision": "r20",
+      "source": "src/telemetry/ErrorBridge.ts"
+    },
+    {
+      "column": 18,
+      "frame_id": "F017-1",
+      "line": 218,
+      "name": "flushToast",
+      "revision": "r20",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 14,
+      "frame_id": "F017-2",
+      "line": 234,
+      "name": "syncToolbar",
+      "revision": "r20",
+      "source": "src/editor/Toolbar.tsx"
+    },
+    {
+      "column": 6,
+      "frame_id": "F017-3",
+      "line": 236,
+      "name": "applyRoute",
+      "revision": "r20",
+      "source": "src/router/RouteBoundary.tsx"
+    },
+    {
+      "column": 10,
+      "frame_id": "F018-0",
+      "line": 196,
+      "name": "commitShell",
+      "revision": "r20",
+      "source": "src/app/AppShell.tsx"
+    },
+    {
+      "column": 6,
+      "frame_id": "F018-1",
+      "line": 212,
+      "name": "paintDocument",
+      "revision": "r20",
+      "source": "src/editor/DocumentPane.tsx"
+    },
+    {
+      "column": 14,
+      "frame_id": "F018-2",
+      "line": 234,
+      "name": "flushToast",
+      "revision": "r20",
+      "source": "src/ui/ToastHost.tsx"
+    },
+    {
+      "column": 14,
+      "frame_id": "F018-3",
+      "line": 115,
+      "name": "captureFault",
+      "revision": "r20",
+      "source": "src/telemetry/ErrorBridge.ts"
+    }
+  ],
+  "incidents": [
+    {
+      "incident_id": "I001",
+      "root_frame_id": "F001-1",
+      "signature": "src/editor/SelectionModel.ts:commitSelection"
+    },
+    {
+      "incident_id": "I002",
+      "root_frame_id": "F002-1",
+      "signature": "src/ui/ToastHost.tsx:flushToast"
+    },
+    {
+      "incident_id": "I003",
+      "root_frame_id": "F003-0",
+      "signature": "src/ui/ToastHost.tsx:flushToast"
+    },
+    {
+      "incident_id": "I004",
+      "root_frame_id": "F004-1",
+      "signature": "src/ui/ToastHost.tsx:flushToast"
+    },
+    {
+      "incident_id": "I005",
+      "root_frame_id": "F005-0",
+      "signature": "src/router/RouteBoundary.tsx:applyRoute"
+    },
+    {
+      "incident_id": "I006",
+      "root_frame_id": "F006-0",
+      "signature": "src/editor/SelectionModel.ts:commitSelection"
+    },
+    {
+      "incident_id": "I007",
+      "root_frame_id": "F007-1",
+      "signature": "src/editor/Toolbar.tsx:syncToolbar"
+    },
+    {
+      "incident_id": "I008",
+      "root_frame_id": "F008-1",
+      "signature": "src/app/AppShell.tsx:commitShell"
+    },
+    {
+      "incident_id": "I009",
+      "root_frame_id": "F009-1",
+      "signature": "src/router/RouteBoundary.tsx:applyRoute"
+    },
+    {
+      "incident_id": "I010",
+      "root_frame_id": "F010-1",
+      "signature": "src/editor/Toolbar.tsx:syncToolbar"
+    },
+    {
+      "incident_id": "I011",
+      "root_frame_id": "F011-1",
+      "signature": "src/editor/Toolbar.tsx:syncToolbar"
+    },
+    {
+      "incident_id": "I012",
+      "root_frame_id": "F012-0",
+      "signature": "src/editor/DocumentPane.tsx:paintDocument"
+    },
+    {
+      "incident_id": "I013",
+      "root_frame_id": "F013-1",
+      "signature": "src/editor/Toolbar.tsx:syncToolbar"
+    },
+    {
+      "incident_id": "I014",
+      "root_frame_id": "F014-1",
+      "signature": "src/router/RouteBoundary.tsx:applyRoute"
+    },
+    {
+      "incident_id": "I015",
+      "root_frame_id": "F015-1",
+      "signature": "src/editor/Toolbar.tsx:syncToolbar"
+    },
+    {
+      "incident_id": "I016",
+      "root_frame_id": "F016-1",
+      "signature": "src/router/RouteBoundary.tsx:applyRoute"
+    },
+    {
+      "incident_id": "I017",
+      "root_frame_id": "F017-1",
+      "signature": "src/ui/ToastHost.tsx:flushToast"
+    },
+    {
+      "incident_id": "I018",
+      "root_frame_id": "F018-0",
+      "signature": "src/app/AppShell.tsx:commitShell"
+    }
+  ],
+  "map_choices": [
+    {
+      "candidate": "c2",
+      "chunk": "editor.js",
+      "revision": "r17"
+    },
+    {
+      "candidate": "c1",
+      "chunk": "shell.js",
+      "revision": "r17"
+    },
+    {
+      "candidate": "c1",
+      "chunk": "editor.js",
+      "revision": "r18"
+    },
+    {
+      "candidate": "c2",
+      "chunk": "shell.js",
+      "revision": "r18"
+    },
+    {
+      "candidate": "c2",
+      "chunk": "editor.js",
+      "revision": "r19"
+    },
+    {
+      "candidate": "c1",
+      "chunk": "shell.js",
+      "revision": "r19"
+    },
+    {
+      "candidate": "c1",
+      "chunk": "editor.js",
+      "revision": "r20"
+    },
+    {
+      "candidate": "c2",
+      "chunk": "shell.js",
+      "revision": "r20"
+    }
+  ],
+  "message_pairs": [
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "E3KE2KUH",
+      "send_event_id": "EUFSE76G",
+      "transit_ms": 36.467
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "E3Q573YD",
+      "send_event_id": "EHQJ6NDA",
+      "transit_ms": 70.591
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "E3S9A9H2",
+      "send_event_id": "EML3U7CV",
+      "transit_ms": 29.509
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "E4CZZMNY",
+      "send_event_id": "ENTHGSL8",
+      "transit_ms": 55.303
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EENTRU5P",
+      "send_event_id": "E5XHRVDH",
+      "transit_ms": 26.795
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EEYYFJFR",
+      "send_event_id": "EGAP8YV4",
+      "transit_ms": 55.105
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EGM5R69K",
+      "send_event_id": "EFG595EQ",
+      "transit_ms": 44.482
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EKZFH8G9",
+      "send_event_id": "EGPCXEH2",
+      "transit_ms": 27.872
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "ELMV86N7",
+      "send_event_id": "EBRSR8EX",
+      "transit_ms": 44.392
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EPB6FPNF",
+      "send_event_id": "EZ92NF4A",
+      "transit_ms": 37.208
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EPGRXBUC",
+      "send_event_id": "EB5QNS56",
+      "transit_ms": 33.111
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EPUDFLMN",
+      "send_event_id": "EA89TPRT",
+      "transit_ms": 75.965
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "ER5P7KXM",
+      "send_event_id": "ELNNNUUL",
+      "transit_ms": 32.45
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EUVL4Z8S",
+      "send_event_id": "ELFGMKRY",
+      "transit_ms": 71.704
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EXEHAQV6",
+      "send_event_id": "EFYK5ANW",
+      "transit_ms": 76.701
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EY25FCDZ",
+      "send_event_id": "EGYAT8CG",
+      "transit_ms": 47.994
+    },
+    {
+      "channel": "ch1",
+      "direction": "c2w",
+      "recv_event_id": "EYMJWFNJ",
+      "send_event_id": "E4F6TCTQ",
+      "transit_ms": 48.279
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "E32L7NC5",
+      "send_event_id": "EUTJT3LU",
+      "transit_ms": 78.769
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "E3GAAP7H",
+      "send_event_id": "ELHVJ7ZN",
+      "transit_ms": 44.386
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "E6CXJJ5U",
+      "send_event_id": "EQHFA2SN",
+      "transit_ms": 73.428
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "E85P67NF",
+      "send_event_id": "EUN3CGKF",
+      "transit_ms": 71.569
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EAR8DHT6",
+      "send_event_id": "EGMWAQXN",
+      "transit_ms": 44.834
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EBKUA39J",
+      "send_event_id": "ELTB5Q7J",
+      "transit_ms": 31.756
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EE9UGW8N",
+      "send_event_id": "EUJV2PSY",
+      "transit_ms": 41.318
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EGQ7QJZ5",
+      "send_event_id": "EMMJPF97",
+      "transit_ms": 68.037
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EHSK5DL9",
+      "send_event_id": "E4Z2R7A9",
+      "transit_ms": 59.26
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EL9TQ587",
+      "send_event_id": "ETF49ZPV",
+      "transit_ms": 81.615
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EMLFK9XC",
+      "send_event_id": "E2VNNRCY",
+      "transit_ms": 71.902
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EN36EPYL",
+      "send_event_id": "EUUDFUHX",
+      "transit_ms": 53.867
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EPWHL6QS",
+      "send_event_id": "EX3LV6X5",
+      "transit_ms": 30.999
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "ETLXRSH3",
+      "send_event_id": "E8VPMDCP",
+      "transit_ms": 17.988
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EULA7R23",
+      "send_event_id": "E78MPN8E",
+      "transit_ms": 67.13
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EW33NN4H",
+      "send_event_id": "EX6C4QSC",
+      "transit_ms": 40.523
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EXQ5VKP3",
+      "send_event_id": "EQAS9ZTV",
+      "transit_ms": 30.272
+    },
+    {
+      "channel": "ch1",
+      "direction": "w2c",
+      "recv_event_id": "EYZHMGP3",
+      "send_event_id": "E9GCPXLH",
+      "transit_ms": 75.431
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "E358QMAS",
+      "send_event_id": "E7VTKSAG",
+      "transit_ms": 86.02
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "E36KWLUD",
+      "send_event_id": "EYMCKA2C",
+      "transit_ms": 17.957
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "E36XJFWP",
+      "send_event_id": "EG7376GJ",
+      "transit_ms": 39.527
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "E3MGZH3U",
+      "send_event_id": "EGWB5AWJ",
+      "transit_ms": 26.107
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "E3WSTBXZ",
+      "send_event_id": "ETT6Z8GS",
+      "transit_ms": 59.632
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "E4VETADM",
+      "send_event_id": "EPAQBXZN",
+      "transit_ms": 58.187
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "E687N8KF",
+      "send_event_id": "EYRFDSPH",
+      "transit_ms": 18.009
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EALRV8G7",
+      "send_event_id": "ECHUNZEH",
+      "transit_ms": 61.434
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EE3NY7YJ",
+      "send_event_id": "EACRJJ4P",
+      "transit_ms": 82.295
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EF6Z7SLG",
+      "send_event_id": "EEFH7E36",
+      "transit_ms": 66.844
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EGUFVHKJ",
+      "send_event_id": "E8W4RBXN",
+      "transit_ms": 74.52
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EJHVKY4T",
+      "send_event_id": "E6G3NZ78",
+      "transit_ms": 73.67
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EKKXAR78",
+      "send_event_id": "E9L5M4U8",
+      "transit_ms": 26.571
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "ENRJ6K4C",
+      "send_event_id": "E9HG9LVS",
+      "transit_ms": 34.206
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EPBRLZYZ",
+      "send_event_id": "E4G5CEGM",
+      "transit_ms": 18.009
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EPLHNH9A",
+      "send_event_id": "EBDY3CBZ",
+      "transit_ms": 74.1
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EPQ82VJG",
+      "send_event_id": "EJZMULE8",
+      "transit_ms": 54.29
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EQBGK72B",
+      "send_event_id": "ER2MP9JD",
+      "transit_ms": 27.769
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "ESJCGXT4",
+      "send_event_id": "ES5HVXBH",
+      "transit_ms": 63.306
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EXASH2CT",
+      "send_event_id": "EQ655M59",
+      "transit_ms": 17.97
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EY2GWHFP",
+      "send_event_id": "EJM32UQ6",
+      "transit_ms": 25.684
+    },
+    {
+      "channel": "ch2",
+      "direction": "c2w",
+      "recv_event_id": "EZ8YW7YR",
+      "send_event_id": "EU6YWMAD",
+      "transit_ms": 18.0
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "E28H5GVE",
+      "send_event_id": "ES24ASRY",
+      "transit_ms": 61.424
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "E5B4UMC2",
+      "send_event_id": "E29K32PT",
+      "transit_ms": 64.602
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "E5GMD6VK",
+      "send_event_id": "EEGN4UA6",
+      "transit_ms": 44.758
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "E5S48V4V",
+      "send_event_id": "ECS94YGJ",
+      "transit_ms": 48.898
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EAD9UFH6",
+      "send_event_id": "EKCNSSKY",
+      "transit_ms": 30.504
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EC7CAFG3",
+      "send_event_id": "EN8BZAHP",
+      "transit_ms": 26.936
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "ED5UUAHC",
+      "send_event_id": "ES3FCCJ7",
+      "transit_ms": 18.042
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EEJ46WN4",
+      "send_event_id": "E7TJAP37",
+      "transit_ms": 28.348
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EK72S8Q9",
+      "send_event_id": "E8CQXPWP",
+      "transit_ms": 59.164
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EKN59F7U",
+      "send_event_id": "E4Y27SZ9",
+      "transit_ms": 56.049
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "ENENSXWG",
+      "send_event_id": "EDSD4KTW",
+      "transit_ms": 63.989
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EQ2GTX3Y",
+      "send_event_id": "EFQVSANL",
+      "transit_ms": 18.0
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "ERCCT2FA",
+      "send_event_id": "EHWT2RR7",
+      "transit_ms": 62.492
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "ES6GA7JJ",
+      "send_event_id": "E6SXEFNS",
+      "transit_ms": 37.303
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EWFW4Y6V",
+      "send_event_id": "EJKYZA6T",
+      "transit_ms": 57.957
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EWV8D7BH",
+      "send_event_id": "EFL2XKPG",
+      "transit_ms": 72.581
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EWVHU2LD",
+      "send_event_id": "E8L9GTDE",
+      "transit_ms": 24.148
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EY5R8V6M",
+      "send_event_id": "ECCTBURP",
+      "transit_ms": 32.223
+    },
+    {
+      "channel": "ch2",
+      "direction": "w2c",
+      "recv_event_id": "EY986XP2",
+      "send_event_id": "E5HWDJG8",
+      "transit_ms": 28.362
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "E28DH5T3",
+      "send_event_id": "EG577FEH",
+      "transit_ms": 79.185
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "E2URHV5P",
+      "send_event_id": "EVTTRRMX",
+      "transit_ms": 77.314
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "E4NS5KVT",
+      "send_event_id": "E2W8L7UL",
+      "transit_ms": 38.37
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "E775FKRH",
+      "send_event_id": "EFNVMK5M",
+      "transit_ms": 49.413
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "E7BUZA8L",
+      "send_event_id": "EC7B76KH",
+      "transit_ms": 53.542
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "E8ZJ2SYG",
+      "send_event_id": "EF78W4KF",
+      "transit_ms": 32.055
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "E9D5HEP4",
+      "send_event_id": "E7Z5QL2J",
+      "transit_ms": 78.123
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "EH3P3LTZ",
+      "send_event_id": "E3TFDEJW",
+      "transit_ms": 79.478
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "EMUTABE7",
+      "send_event_id": "ESACZWNV",
+      "transit_ms": 42.642
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "EPK47MNT",
+      "send_event_id": "EYSEN68C",
+      "transit_ms": 30.093
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "ESKRCUCT",
+      "send_event_id": "EYLLWUHB",
+      "transit_ms": 40.756
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "ET965HN8",
+      "send_event_id": "ELQAY4DR",
+      "transit_ms": 73.087
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "ETRNVTSV",
+      "send_event_id": "EUPE6GTA",
+      "transit_ms": 70.933
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "EY22LF8C",
+      "send_event_id": "E6N5UVXX",
+      "transit_ms": 38.579
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "EYCDHD3B",
+      "send_event_id": "E68H2S5F",
+      "transit_ms": 34.953
+    },
+    {
+      "channel": "ch3",
+      "direction": "c2w",
+      "recv_event_id": "EYK3U22Z",
+      "send_event_id": "EG6GNDX3",
+      "transit_ms": 38.696
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "E2AGUU25",
+      "send_event_id": "EXUEL2DQ",
+      "transit_ms": 57.428
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "E3XNNFK7",
+      "send_event_id": "E49DG7K6",
+      "transit_ms": 28.652
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "E46V2DST",
+      "send_event_id": "E5T2JJ88",
+      "transit_ms": 72.054
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "E4DH45FP",
+      "send_event_id": "EWH9LK5Z",
+      "transit_ms": 54.82
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "E4LG5VYR",
+      "send_event_id": "ER9XACGE",
+      "transit_ms": 28.597
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "E4RZHNFK",
+      "send_event_id": "E7V6TGQL",
+      "transit_ms": 18.019
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "ECY4M824",
+      "send_event_id": "EJGCSDKE",
+      "transit_ms": 79.743
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "EE5F4NKD",
+      "send_event_id": "EQ5LLATV",
+      "transit_ms": 52.028
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "EE9SY6B3",
+      "send_event_id": "E2EW37ZE",
+      "transit_ms": 31.527
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "EGJGNTFF",
+      "send_event_id": "EK2UJZ8G",
+      "transit_ms": 48.965
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "EKV2HPMA",
+      "send_event_id": "EUVNQ3QA",
+      "transit_ms": 73.194
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "ELBN8W4V",
+      "send_event_id": "EJA9BAE3",
+      "transit_ms": 17.975
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "ELFQTGDK",
+      "send_event_id": "E8WLPR38",
+      "transit_ms": 37.737
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "ENMCFDGL",
+      "send_event_id": "EDRN5ZLP",
+      "transit_ms": 59.491
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "ERLDDW2N",
+      "send_event_id": "EMXDW229",
+      "transit_ms": 70.224
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "ETJBENBZ",
+      "send_event_id": "EF4CHV7S",
+      "transit_ms": 51.567
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "EUEMUJQJ",
+      "send_event_id": "EMRNQZ8W",
+      "transit_ms": 67.759
+    },
+    {
+      "channel": "ch3",
+      "direction": "w2c",
+      "recv_event_id": "EY99Y6WJ",
+      "send_event_id": "EP7Z6BWQ",
+      "transit_ms": 67.071
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "E4DYSZSM",
+      "send_event_id": "EA5NHXNJ",
+      "transit_ms": 58.397
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "E62D43F2",
+      "send_event_id": "EHLCU7XR",
+      "transit_ms": 51.014
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EAC6ZA2U",
+      "send_event_id": "E6H6EG62",
+      "transit_ms": 45.296
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EAM2PVWD",
+      "send_event_id": "EBPW2D4H",
+      "transit_ms": 44.578
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EBQY6T9Q",
+      "send_event_id": "EJZYVUGQ",
+      "transit_ms": 43.48
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "ECF4TQCH",
+      "send_event_id": "ELZASZ9H",
+      "transit_ms": 47.893
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EFSRKQ6R",
+      "send_event_id": "E5NLPKKA",
+      "transit_ms": 58.851
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EHMAETWP",
+      "send_event_id": "EMX9X9L8",
+      "transit_ms": 34.953
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EL33QD5J",
+      "send_event_id": "EDGSE3MJ",
+      "transit_ms": 24.915
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "ENHHXNHV",
+      "send_event_id": "EJAHF4KY",
+      "transit_ms": 31.685
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "ERTPR6ZD",
+      "send_event_id": "ER9C2K2L",
+      "transit_ms": 18.029
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "ESMJS5TR",
+      "send_event_id": "EMTPCB22",
+      "transit_ms": 49.509
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EUBQX34S",
+      "send_event_id": "EX5WM6HC",
+      "transit_ms": 18.079
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EV6S3NWH",
+      "send_event_id": "EYQRA6K3",
+      "transit_ms": 39.858
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EWDQT5DC",
+      "send_event_id": "ECWEXZDX",
+      "transit_ms": 76.637
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EWUK7EZW",
+      "send_event_id": "ETATPE87",
+      "transit_ms": 70.866
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EZLFXA47",
+      "send_event_id": "EKWTXFLW",
+      "transit_ms": 18.022
+    },
+    {
+      "channel": "ch4",
+      "direction": "c2w",
+      "recv_event_id": "EZW4RH2G",
+      "send_event_id": "EEMSC9AQ",
+      "transit_ms": 18.051
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "E2S2G7F3",
+      "send_event_id": "ELVBUY4W",
+      "transit_ms": 31.844
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "E3U6Z989",
+      "send_event_id": "ECCVDAD8",
+      "transit_ms": 47.566
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "E47LHUY7",
+      "send_event_id": "E8637UQZ",
+      "transit_ms": 78.597
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "E5DWY2FR",
+      "send_event_id": "ERBS7ABN",
+      "transit_ms": 48.962
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "E6MY4XVU",
+      "send_event_id": "E57YFY6U",
+      "transit_ms": 59.945
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "E76SWACW",
+      "send_event_id": "EY2WGKT5",
+      "transit_ms": 33.27
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "E7FZDEKE",
+      "send_event_id": "EQSRAT9M",
+      "transit_ms": 87.963
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "ECE8PG66",
+      "send_event_id": "E8AM6DZ9",
+      "transit_ms": 47.27
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "EF4VWR7T",
+      "send_event_id": "EZH67LNU",
+      "transit_ms": 41.835
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "EJMKSRPS",
+      "send_event_id": "EMGPQKQK",
+      "transit_ms": 42.29
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "ELYZJHZG",
+      "send_event_id": "EKQCY52Y",
+      "transit_ms": 63.158
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "EMMRVWTH",
+      "send_event_id": "EVZKG9HF",
+      "transit_ms": 35.574
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "ERN2YLZA",
+      "send_event_id": "EGRRWRZH",
+      "transit_ms": 78.285
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "ETKA2F77",
+      "send_event_id": "ESKYPN6M",
+      "transit_ms": 65.936
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "EVTF8HVD",
+      "send_event_id": "E3R8Q84Q",
+      "transit_ms": 44.178
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "EWUYR5XZ",
+      "send_event_id": "E3W4L42U",
+      "transit_ms": 17.97
+    },
+    {
+      "channel": "ch4",
+      "direction": "w2c",
+      "recv_event_id": "EXBX99LQ",
+      "send_event_id": "E4UX3N8R",
+      "transit_ms": 35.656
+    }
+  ],
+  "task_bindings": [
+    {
+      "event_id": "E27BLAWW",
+      "marker_error_ms": -1.061,
+      "queue": "background",
+      "task_uid": "workerA/s1/t6.6"
+    },
+    {
+      "event_id": "E28DH5T3",
+      "marker_error_ms": 0.04,
+      "queue": "message",
+      "task_uid": "workerB/s0/t8.4"
+    },
+    {
+      "event_id": "E28H5GVE",
+      "marker_error_ms": 0.012,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t2.3"
+    },
+    {
+      "event_id": "E29K32PT",
+      "marker_error_ms": -0.013,
+      "queue": "message",
+      "task_uid": "workerA/s1/t11.5"
+    },
+    {
+      "event_id": "E2A4ZUVS",
+      "marker_error_ms": -0.031,
+      "queue": "microtask",
+      "task_uid": "workerA/s0/t11.1"
+    },
+    {
+      "event_id": "E2AGUU25",
+      "marker_error_ms": 0.042,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t2.5"
+    },
+    {
+      "event_id": "E2EJ2AYA",
+      "marker_error_ms": 0.022,
+      "queue": "microtask",
+      "task_uid": "workerB/s1/t0.8"
+    },
+    {
+      "event_id": "E2EW37ZE",
+      "marker_error_ms": -0.006,
+      "queue": "message",
+      "task_uid": "workerB/s0/t2.5"
+    },
+    {
+      "event_id": "E2FUAMLK",
+      "marker_error_ms": -0.032,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t9.1"
+    },
+    {
+      "event_id": "E2G283DW",
+      "marker_error_ms": -0.05,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t8.2"
+    },
+    {
+      "event_id": "E2PHPJFY",
+      "marker_error_ms": 0.021,
+      "queue": "render",
+      "task_uid": "workerB/s1/t4.6"
+    },
+    {
+      "event_id": "E2PKS5VA",
+      "marker_error_ms": -0.034,
+      "queue": "render",
+      "task_uid": "rendererA/s1/t6.4"
+    },
+    {
+      "event_id": "E2S2G7F3",
+      "marker_error_ms": -0.023,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t0.7"
+    },
+    {
+      "event_id": "E2UFTJ63",
+      "marker_error_ms": 0.049,
+      "queue": "message",
+      "task_uid": "workerA/s1/t2.2"
+    },
+    {
+      "event_id": "E2URHV5P",
+      "marker_error_ms": -0.049,
+      "queue": "message",
+      "task_uid": "workerB/s0/t6.4"
+    },
+    {
+      "event_id": "E2USQEK8",
+      "marker_error_ms": -0.022,
+      "queue": "render",
+      "task_uid": "workerB/s0/t2.6"
+    },
+    {
+      "event_id": "E2VNNRCY",
+      "marker_error_ms": 0.016,
+      "queue": "message",
+      "task_uid": "workerA/s0/t7.5"
+    },
+    {
+      "event_id": "E2W8L7UL",
+      "marker_error_ms": -0.017,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t8.1"
+    },
+    {
+      "event_id": "E32L7NC5",
+      "marker_error_ms": 0.023,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t1.7"
+    },
+    {
+      "event_id": "E338NZT4",
+      "marker_error_ms": -0.008,
+      "queue": "message",
+      "task_uid": "workerB/s1/t9.2"
+    },
+    {
+      "event_id": "E358QMAS",
+      "marker_error_ms": -0.043,
+      "queue": "message",
+      "task_uid": "workerA/s1/t4.5"
+    },
+    {
+      "event_id": "E36KWLUD",
+      "marker_error_ms": 0.02,
+      "queue": "message",
+      "task_uid": "workerA/s1/t4.2"
+    },
+    {
+      "event_id": "E36XJFWP",
+      "marker_error_ms": 0.044,
+      "queue": "message",
+      "task_uid": "workerA/s1/t3.6"
+    },
+    {
+      "event_id": "E3BA3EYF",
+      "marker_error_ms": 0.01,
+      "queue": "microtask",
+      "task_uid": "rendererB/s1/t8.7"
+    },
+    {
+      "event_id": "E3BSNP25",
+      "marker_error_ms": 0.007,
+      "queue": "user",
+      "task_uid": "rendererB/s1/t1.8"
+    },
+    {
+      "event_id": "E3BVXBHA",
+      "marker_error_ms": -0.041,
+      "queue": "render",
+      "task_uid": "rendererB/s0/t11.3"
+    },
+    {
+      "event_id": "E3GAAP7H",
+      "marker_error_ms": 0.055,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t11.7"
+    },
+    {
+      "event_id": "E3KE2KUH",
+      "marker_error_ms": -0.017,
+      "queue": "message",
+      "task_uid": "workerA/s0/t4.6"
+    },
+    {
+      "event_id": "E3MGZH3U",
+      "marker_error_ms": -0.02,
+      "queue": "message",
+      "task_uid": "workerA/s1/t9.6"
+    },
+    {
+      "event_id": "E3PCQBHC",
+      "marker_error_ms": -0.045,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t11.2"
+    },
+    {
+      "event_id": "E3Q573YD",
+      "marker_error_ms": -0.04,
+      "queue": "message",
+      "task_uid": "workerA/s0/t8.2"
+    },
+    {
+      "event_id": "E3R8Q84Q",
+      "marker_error_ms": -0.007,
+      "queue": "message",
+      "task_uid": "workerB/s1/t10.6"
+    },
+    {
+      "event_id": "E3S9A9H2",
+      "marker_error_ms": -0.024,
+      "queue": "message",
+      "task_uid": "workerA/s0/t4.5"
+    },
+    {
+      "event_id": "E3SQKCBF",
+      "marker_error_ms": -0.011,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t11.6"
+    },
+    {
+      "event_id": "E3TFDEJW",
+      "marker_error_ms": -0.022,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t1.5"
+    },
+    {
+      "event_id": "E3U6Z989",
+      "marker_error_ms": -0.003,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t10.2"
+    },
+    {
+      "event_id": "E3VXHSLY",
+      "marker_error_ms": 0.004,
+      "queue": "user",
+      "task_uid": "rendererA/s0/t9.4"
+    },
+    {
+      "event_id": "E3W4L42U",
+      "marker_error_ms": 0.014,
+      "queue": "message",
+      "task_uid": "workerB/s1/t9.5"
+    },
+    {
+      "event_id": "E3WSTBXZ",
+      "marker_error_ms": -0.042,
+      "queue": "message",
+      "task_uid": "workerA/s1/t9.3"
+    },
+    {
+      "event_id": "E3XNNFK7",
+      "marker_error_ms": -0.031,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t3.4"
+    },
+    {
+      "event_id": "E3ZVVY9Y",
+      "marker_error_ms": 0.031,
+      "queue": "microtask",
+      "task_uid": "workerB/s1/t10.5"
+    },
+    {
+      "event_id": "E42EN6TQ",
+      "marker_error_ms": 0.0,
+      "queue": "timer",
+      "task_uid": "rendererB/s1/t11.7"
+    },
+    {
+      "event_id": "E42SZRJX",
+      "marker_error_ms": -0.025,
+      "queue": "timer",
+      "task_uid": "rendererB/s1/t2.1"
+    },
+    {
+      "event_id": "E46V2DST",
+      "marker_error_ms": 0.01,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t2.2"
+    },
+    {
+      "event_id": "E47LHUY7",
+      "marker_error_ms": 0.051,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t8.6"
+    },
+    {
+      "event_id": "E49DG7K6",
+      "marker_error_ms": 0.046,
+      "queue": "message",
+      "task_uid": "workerB/s0/t7.3"
+    },
+    {
+      "event_id": "E4CZZMNY",
+      "marker_error_ms": 0.014,
+      "queue": "message",
+      "task_uid": "workerA/s0/t11.3"
+    },
+    {
+      "event_id": "E4DH45FP",
+      "marker_error_ms": -0.054,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t3.2"
+    },
+    {
+      "event_id": "E4DL9ALD",
+      "marker_error_ms": -0.054,
+      "queue": "worker",
+      "task_uid": "workerB/s1/t6.7"
+    },
+    {
+      "event_id": "E4DYSZSM",
+      "marker_error_ms": 0.041,
+      "queue": "message",
+      "task_uid": "workerB/s1/t8.6"
+    },
+    {
+      "event_id": "E4F6TCTQ",
+      "marker_error_ms": 0.043,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t1.2"
+    },
+    {
+      "event_id": "E4G5CEGM",
+      "marker_error_ms": -0.039,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t7.2"
+    },
+    {
+      "event_id": "E4LG5VYR",
+      "marker_error_ms": -0.018,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t2.2"
+    },
+    {
+      "event_id": "E4NS5KVT",
+      "marker_error_ms": -0.029,
+      "queue": "message",
+      "task_uid": "workerB/s0/t10.2"
+    },
+    {
+      "event_id": "E4NW6XW4",
+      "marker_error_ms": 0.016,
+      "queue": "message",
+      "task_uid": "workerB/s1/t7.2"
+    },
+    {
+      "event_id": "E4RZHNFK",
+      "marker_error_ms": -0.046,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t10.1"
+    },
+    {
+      "event_id": "E4UC2H6E",
+      "marker_error_ms": -0.013,
+      "queue": "timer",
+      "task_uid": "workerA/s1/t8.4"
+    },
+    {
+      "event_id": "E4UX3N8R",
+      "marker_error_ms": -0.032,
+      "queue": "message",
+      "task_uid": "workerB/s1/t5.4"
+    },
+    {
+      "event_id": "E4V8GTJH",
+      "marker_error_ms": -0.017,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t4.10"
+    },
+    {
+      "event_id": "E4VETADM",
+      "marker_error_ms": 0.023,
+      "queue": "message",
+      "task_uid": "workerA/s1/t5.4"
+    },
+    {
+      "event_id": "E4Y27SZ9",
+      "marker_error_ms": -0.054,
+      "queue": "message",
+      "task_uid": "workerA/s1/t4.4"
+    },
+    {
+      "event_id": "E4Z2R7A9",
+      "marker_error_ms": 0.012,
+      "queue": "message",
+      "task_uid": "workerA/s0/t11.2"
+    },
+    {
+      "event_id": "E55NDHSQ",
+      "marker_error_ms": 0.04,
+      "queue": "worker",
+      "task_uid": "workerA/s0/t6.3"
+    },
+    {
+      "event_id": "E57YFY6U",
+      "marker_error_ms": 0.043,
+      "queue": "message",
+      "task_uid": "workerB/s1/t0.3"
+    },
+    {
+      "event_id": "E5B4UMC2",
+      "marker_error_ms": -0.032,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t1.8"
+    },
+    {
+      "event_id": "E5BWZ5X5",
+      "marker_error_ms": 0.017,
+      "queue": "timer",
+      "task_uid": "rendererB/s1/t0.1"
+    },
+    {
+      "event_id": "E5DWY2FR",
+      "marker_error_ms": 0.311,
+      "queue": "background",
+      "task_uid": "rendererB/s0/t7.3"
+    },
+    {
+      "event_id": "E5FKTVPU",
+      "marker_error_ms": 0.022,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t8.6"
+    },
+    {
+      "event_id": "E5GMD6VK",
+      "marker_error_ms": 0.003,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t8.1"
+    },
+    {
+      "event_id": "E5HWDJG8",
+      "marker_error_ms": -0.04,
+      "queue": "message",
+      "task_uid": "workerA/s1/t10.6"
+    },
+    {
+      "event_id": "E5JQSMR5",
+      "marker_error_ms": 1.08,
+      "queue": "continuation",
+      "task_uid": "rendererB/s0/t6.3"
+    },
+    {
+      "event_id": "E5NLPKKA",
+      "marker_error_ms": 0.001,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t7.2"
+    },
+    {
+      "event_id": "E5Q4KG7U",
+      "marker_error_ms": -0.054,
+      "queue": "worker",
+      "task_uid": "workerB/s1/t7.3"
+    },
+    {
+      "event_id": "E5S48V4V",
+      "marker_error_ms": 0.031,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t2.5"
+    },
+    {
+      "event_id": "E5T2JJ88",
+      "marker_error_ms": -0.011,
+      "queue": "message",
+      "task_uid": "workerB/s0/t0.2"
+    },
+    {
+      "event_id": "E5TJ8ED5",
+      "marker_error_ms": -0.048,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t3.5"
+    },
+    {
+      "event_id": "E5XHRVDH",
+      "marker_error_ms": -0.051,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t5.5"
+    },
+    {
+      "event_id": "E5ZXTCDJ",
+      "marker_error_ms": -0.051,
+      "queue": "message",
+      "task_uid": "workerA/s0/t0.2"
+    },
+    {
+      "event_id": "E62D43F2",
+      "marker_error_ms": 0.052,
+      "queue": "message",
+      "task_uid": "workerB/s1/t1.5"
+    },
+    {
+      "event_id": "E64289YB",
+      "marker_error_ms": 0.013,
+      "queue": "user",
+      "task_uid": "rendererB/s1/t11.1"
+    },
+    {
+      "event_id": "E65NHZCD",
+      "marker_error_ms": 0.042,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t6.7"
+    },
+    {
+      "event_id": "E687N8KF",
+      "marker_error_ms": 0.0,
+      "queue": "message",
+      "task_uid": "workerA/s1/t0.4"
+    },
+    {
+      "event_id": "E68H2S5F",
+      "marker_error_ms": -0.027,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t2.4"
+    },
+    {
+      "event_id": "E6CVU7H3",
+      "marker_error_ms": -0.024,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t10.6"
+    },
+    {
+      "event_id": "E6CXJJ5U",
+      "marker_error_ms": 0.039,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t2.2"
+    },
+    {
+      "event_id": "E6G3NZ78",
+      "marker_error_ms": -0.013,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t5.7"
+    },
+    {
+      "event_id": "E6G9XQ89",
+      "marker_error_ms": 0.039,
+      "queue": "user",
+      "task_uid": "rendererB/s1/t4.9"
+    },
+    {
+      "event_id": "E6H6EG62",
+      "marker_error_ms": -0.029,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t8.4"
+    },
+    {
+      "event_id": "E6MY4XVU",
+      "marker_error_ms": -0.003,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t3.4"
+    },
+    {
+      "event_id": "E6N5UVXX",
+      "marker_error_ms": 0.007,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t5.4"
+    },
+    {
+      "event_id": "E6SXEFNS",
+      "marker_error_ms": 0.04,
+      "queue": "message",
+      "task_uid": "workerA/s1/t6.3"
+    },
+    {
+      "event_id": "E6TFYAPK",
+      "marker_error_ms": -0.037,
+      "queue": "worker",
+      "task_uid": "workerA/s1/t3.4"
+    },
+    {
+      "event_id": "E6W8N9V6",
+      "marker_error_ms": -0.037,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t11.3"
+    },
+    {
+      "event_id": "E76SWACW",
+      "marker_error_ms": -0.021,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t9.7"
+    },
+    {
+      "event_id": "E775FKRH",
+      "marker_error_ms": 0.027,
+      "queue": "message",
+      "task_uid": "workerB/s0/t5.6"
+    },
+    {
+      "event_id": "E78MPN8E",
+      "marker_error_ms": -0.029,
+      "queue": "message",
+      "task_uid": "workerA/s0/t5.1"
+    },
+    {
+      "event_id": "E7BUZA8L",
+      "marker_error_ms": 0.03,
+      "queue": "message",
+      "task_uid": "workerB/s0/t0.6"
+    },
+    {
+      "event_id": "E7FZDEKE",
+      "marker_error_ms": 0.04,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t5.9"
+    },
+    {
+      "event_id": "E7LNUSSM",
+      "marker_error_ms": 0.011,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t2.10"
+    },
+    {
+      "event_id": "E7TJAP37",
+      "marker_error_ms": -0.053,
+      "queue": "message",
+      "task_uid": "workerA/s1/t2.5"
+    },
+    {
+      "event_id": "E7V6TGQL",
+      "marker_error_ms": 0.004,
+      "queue": "message",
+      "task_uid": "workerB/s0/t11.1"
+    },
+    {
+      "event_id": "E7VTKSAG",
+      "marker_error_ms": -0.029,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t8.9"
+    },
+    {
+      "event_id": "E7X6YJSH",
+      "marker_error_ms": -0.029,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t8.9"
+    },
+    {
+      "event_id": "E7XD3227",
+      "marker_error_ms": -0.003,
+      "queue": "render",
+      "task_uid": "rendererB/s0/t7.2"
+    },
+    {
+      "event_id": "E7Z5QL2J",
+      "marker_error_ms": -0.049,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t1.2"
+    },
+    {
+      "event_id": "E7Z78UB5",
+      "marker_error_ms": 0.01,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t3.3"
+    },
+    {
+      "event_id": "E85P67NF",
+      "marker_error_ms": 0.047,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t4.2"
+    },
+    {
+      "event_id": "E8637UQZ",
+      "marker_error_ms": -0.032,
+      "queue": "message",
+      "task_uid": "workerB/s1/t0.5"
+    },
+    {
+      "event_id": "E8AM6DZ9",
+      "marker_error_ms": 0.019,
+      "queue": "message",
+      "task_uid": "workerB/s1/t6.2"
+    },
+    {
+      "event_id": "E8BC7RKS",
+      "marker_error_ms": -0.014,
+      "queue": "timer",
+      "task_uid": "workerB/s1/t5.6"
+    },
+    {
+      "event_id": "E8CQXPWP",
+      "marker_error_ms": -0.038,
+      "queue": "message",
+      "task_uid": "workerA/s1/t7.2"
+    },
+    {
+      "event_id": "E8L9GTDE",
+      "marker_error_ms": 0.011,
+      "queue": "message",
+      "task_uid": "workerA/s1/t1.3"
+    },
+    {
+      "event_id": "E8M9E87K",
+      "marker_error_ms": 0.021,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t3.8"
+    },
+    {
+      "event_id": "E8S8V4Q4",
+      "marker_error_ms": -0.053,
+      "queue": "microtask",
+      "task_uid": "workerB/s1/t2.1"
+    },
+    {
+      "event_id": "E8UQXGH2",
+      "marker_error_ms": -0.053,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t7.2"
+    },
+    {
+      "event_id": "E8VPMDCP",
+      "marker_error_ms": -0.042,
+      "queue": "message",
+      "task_uid": "workerA/s0/t10.3"
+    },
+    {
+      "event_id": "E8W4RBXN",
+      "marker_error_ms": -0.047,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t1.3"
+    },
+    {
+      "event_id": "E8WLPR38",
+      "marker_error_ms": -0.055,
+      "queue": "message",
+      "task_uid": "workerB/s0/t7.4"
+    },
+    {
+      "event_id": "E8ZJ2SYG",
+      "marker_error_ms": -0.005,
+      "queue": "message",
+      "task_uid": "workerB/s0/t1.4"
+    },
+    {
+      "event_id": "E98AUP7C",
+      "marker_error_ms": 0.001,
+      "queue": "render",
+      "task_uid": "workerA/s1/t7.6"
+    },
+    {
+      "event_id": "E9CTBJYH",
+      "marker_error_ms": 0.019,
+      "queue": "message",
+      "task_uid": "workerA/s0/t1.2"
+    },
+    {
+      "event_id": "E9D5HEP4",
+      "marker_error_ms": 0.044,
+      "queue": "message",
+      "task_uid": "workerB/s0/t0.3"
+    },
+    {
+      "event_id": "E9GCPXLH",
+      "marker_error_ms": 0.007,
+      "queue": "message",
+      "task_uid": "workerA/s0/t1.3"
+    },
+    {
+      "event_id": "E9H75L49",
+      "marker_error_ms": -0.025,
+      "queue": "user",
+      "task_uid": "rendererA/s0/t1.9"
+    },
+    {
+      "event_id": "E9HG9LVS",
+      "marker_error_ms": 0.004,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t2.4"
+    },
+    {
+      "event_id": "E9K5A9CN",
+      "marker_error_ms": 0.053,
+      "queue": "timer",
+      "task_uid": "rendererB/s1/t0.5"
+    },
+    {
+      "event_id": "E9KR7HHM",
+      "marker_error_ms": 0.014,
+      "queue": "user",
+      "task_uid": "rendererB/s0/t10.1"
+    },
+    {
+      "event_id": "E9L5M4U8",
+      "marker_error_ms": -0.038,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t1.3"
+    },
+    {
+      "event_id": "E9VQ5QTZ",
+      "marker_error_ms": -0.031,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t11.8"
+    },
+    {
+      "event_id": "EA5NHXNJ",
+      "marker_error_ms": 0.039,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t9.10"
+    },
+    {
+      "event_id": "EA89TPRT",
+      "marker_error_ms": -0.008,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t7.10"
+    },
+    {
+      "event_id": "EAC6ZA2U",
+      "marker_error_ms": 0.045,
+      "queue": "message",
+      "task_uid": "workerB/s1/t6.6"
+    },
+    {
+      "event_id": "EACRJJ4P",
+      "marker_error_ms": -0.02,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t2.6"
+    },
+    {
+      "event_id": "EAD9UFH6",
+      "marker_error_ms": -0.033,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t11.9"
+    },
+    {
+      "event_id": "EADT2T2W",
+      "marker_error_ms": -0.003,
+      "queue": "user",
+      "task_uid": "rendererA/s0/t4.8"
+    },
+    {
+      "event_id": "EAGHB75V",
+      "marker_error_ms": 0.004,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t9.7"
+    },
+    {
+      "event_id": "EAKMJPSF",
+      "marker_error_ms": -0.032,
+      "queue": "message",
+      "task_uid": "workerA/s0/t2.6"
+    },
+    {
+      "event_id": "EALRV8G7",
+      "marker_error_ms": 0.035,
+      "queue": "message",
+      "task_uid": "workerA/s1/t0.3"
+    },
+    {
+      "event_id": "EAM2PVWD",
+      "marker_error_ms": -0.052,
+      "queue": "message",
+      "task_uid": "workerB/s1/t1.4"
+    },
+    {
+      "event_id": "EAR8DHT6",
+      "marker_error_ms": -0.014,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t8.3"
+    },
+    {
+      "event_id": "EAS9TZK7",
+      "marker_error_ms": -0.016,
+      "queue": "worker",
+      "task_uid": "workerA/s1/t3.1"
+    },
+    {
+      "event_id": "EB5QNS56",
+      "marker_error_ms": -0.048,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t0.4"
+    },
+    {
+      "event_id": "EBDY3CBZ",
+      "marker_error_ms": -0.039,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t2.7"
+    },
+    {
+      "event_id": "EBHR9EGY",
+      "marker_error_ms": 0.017,
+      "queue": "timer",
+      "task_uid": "workerB/s1/t9.4"
+    },
+    {
+      "event_id": "EBKUA39J",
+      "marker_error_ms": 0.044,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t10.7"
+    },
+    {
+      "event_id": "EBPW2D4H",
+      "marker_error_ms": 0.052,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t7.4"
+    },
+    {
+      "event_id": "EBQY6T9Q",
+      "marker_error_ms": -0.002,
+      "queue": "message",
+      "task_uid": "workerB/s1/t5.2"
+    },
+    {
+      "event_id": "EBR2AZYF",
+      "marker_error_ms": 0.013,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t10.2"
+    },
+    {
+      "event_id": "EBRSR8EX",
+      "marker_error_ms": -0.04,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t6.1"
+    },
+    {
+      "event_id": "EBSNGAK6",
+      "marker_error_ms": -0.032,
+      "queue": "microtask",
+      "task_uid": "rendererB/s1/t1.1"
+    },
+    {
+      "event_id": "EBZ33UVN",
+      "marker_error_ms": -0.031,
+      "queue": "microtask",
+      "task_uid": "workerB/s1/t0.6"
+    },
+    {
+      "event_id": "EC7B76KH",
+      "marker_error_ms": -0.022,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t5.9"
+    },
+    {
+      "event_id": "EC7CAFG3",
+      "marker_error_ms": 0.041,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t7.7"
+    },
+    {
+      "event_id": "EC8PYFZ4",
+      "marker_error_ms": -0.012,
+      "queue": "timer",
+      "task_uid": "rendererA/s1/t9.5"
+    },
+    {
+      "event_id": "ECCTBURP",
+      "marker_error_ms": 0.046,
+      "queue": "message",
+      "task_uid": "workerA/s1/t10.3"
+    },
+    {
+      "event_id": "ECCVDAD8",
+      "marker_error_ms": -0.051,
+      "queue": "message",
+      "task_uid": "workerB/s1/t1.2"
+    },
+    {
+      "event_id": "ECE8PG66",
+      "marker_error_ms": 0.039,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t6.1"
+    },
+    {
+      "event_id": "ECF4TQCH",
+      "marker_error_ms": 0.049,
+      "queue": "message",
+      "task_uid": "workerB/s1/t2.6"
+    },
+    {
+      "event_id": "ECHUNZEH",
+      "marker_error_ms": -0.041,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t10.3"
+    },
+    {
+      "event_id": "ECJY8D8B",
+      "marker_error_ms": 0.035,
+      "queue": "user",
+      "task_uid": "rendererB/s1/t7.6"
+    },
+    {
+      "event_id": "ECNFK2Z5",
+      "marker_error_ms": -0.012,
+      "queue": "continuation",
+      "task_uid": "rendererB/s0/t10.3"
+    },
+    {
+      "event_id": "ECS94YGJ",
+      "marker_error_ms": 0.008,
+      "queue": "message",
+      "task_uid": "workerA/s1/t7.4"
+    },
+    {
+      "event_id": "ECV2XV4L",
+      "marker_error_ms": 0.008,
+      "queue": "render",
+      "task_uid": "workerA/s1/t4.3"
+    },
+    {
+      "event_id": "ECW8ZMLJ",
+      "marker_error_ms": -0.05,
+      "queue": "worker",
+      "task_uid": "workerB/s0/t6.6"
+    },
+    {
+      "event_id": "ECWEXZDX",
+      "marker_error_ms": 0.047,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t11.4"
+    },
+    {
+      "event_id": "ECY4M824",
+      "marker_error_ms": 0.04,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t2.1"
+    },
+    {
+      "event_id": "ED2BFUTR",
+      "marker_error_ms": -0.005,
+      "queue": "render",
+      "task_uid": "workerA/s1/t2.6"
+    },
+    {
+      "event_id": "ED3ZDW48",
+      "marker_error_ms": -0.049,
+      "queue": "timer",
+      "task_uid": "rendererB/s0/t10.4"
+    },
+    {
+      "event_id": "ED45DERA",
+      "marker_error_ms": 0.039,
+      "queue": "render",
+      "task_uid": "rendererA/s0/t4.7"
+    },
+    {
+      "event_id": "ED4U7BC5",
+      "marker_error_ms": 0.022,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t7.7"
+    },
+    {
+      "event_id": "ED5UUAHC",
+      "marker_error_ms": 0.378,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t6.3"
+    },
+    {
+      "event_id": "EDGSE3MJ",
+      "marker_error_ms": 0.003,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t4.6"
+    },
+    {
+      "event_id": "EDPHWQW6",
+      "marker_error_ms": -0.055,
+      "queue": "worker",
+      "task_uid": "workerA/s0/t3.1"
+    },
+    {
+      "event_id": "EDRN5ZLP",
+      "marker_error_ms": -0.037,
+      "queue": "message",
+      "task_uid": "workerB/s0/t10.1"
+    },
+    {
+      "event_id": "EDSD4KTW",
+      "marker_error_ms": -0.006,
+      "queue": "message",
+      "task_uid": "workerA/s1/t6.1"
+    },
+    {
+      "event_id": "EDTY2Z94",
+      "marker_error_ms": -0.006,
+      "queue": "message",
+      "task_uid": "workerB/s0/t5.2"
+    },
+    {
+      "event_id": "EE336AU7",
+      "marker_error_ms": 0.003,
+      "queue": "message",
+      "task_uid": "workerB/s1/t0.7"
+    },
+    {
+      "event_id": "EE3NY7YJ",
+      "marker_error_ms": -0.027,
+      "queue": "message",
+      "task_uid": "workerA/s1/t11.3"
+    },
+    {
+      "event_id": "EE5F4NKD",
+      "marker_error_ms": -0.055,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t3.7"
+    },
+    {
+      "event_id": "EE9SY6B3",
+      "marker_error_ms": -0.013,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t11.5"
+    },
+    {
+      "event_id": "EE9UGW8N",
+      "marker_error_ms": -0.052,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t6.5"
+    },
+    {
+      "event_id": "EEFH7E36",
+      "marker_error_ms": -0.024,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t0.8"
+    },
+    {
+      "event_id": "EEGN4UA6",
+      "marker_error_ms": 0.031,
+      "queue": "message",
+      "task_uid": "workerA/s1/t10.1"
+    },
+    {
+      "event_id": "EEJ46WN4",
+      "marker_error_ms": 0.02,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t3.9"
+    },
+    {
+      "event_id": "EEJ4RWS7",
+      "marker_error_ms": -0.039,
+      "queue": "microtask",
+      "task_uid": "workerA/s0/t1.4"
+    },
+    {
+      "event_id": "EEJEAVA3",
+      "marker_error_ms": -0.007,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t6.2"
+    },
+    {
+      "event_id": "EEMSC9AQ",
+      "marker_error_ms": -0.012,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t9.2"
+    },
+    {
+      "event_id": "EENTRU5P",
+      "marker_error_ms": -0.012,
+      "queue": "message",
+      "task_uid": "workerA/s0/t10.5"
+    },
+    {
+      "event_id": "EEVA3FST",
+      "marker_error_ms": -0.051,
+      "queue": "user",
+      "task_uid": "rendererA/s1/t1.6"
+    },
+    {
+      "event_id": "EEYYFJFR",
+      "marker_error_ms": -0.047,
+      "queue": "message",
+      "task_uid": "workerA/s0/t4.3"
+    },
+    {
+      "event_id": "EF4A7AN9",
+      "marker_error_ms": 0.036,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t1.1"
+    },
+    {
+      "event_id": "EF4CHV7S",
+      "marker_error_ms": 0.052,
+      "queue": "message",
+      "task_uid": "workerB/s0/t1.6"
+    },
+    {
+      "event_id": "EF4VWR7T",
+      "marker_error_ms": -0.016,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t0.5"
+    },
+    {
+      "event_id": "EF6Z7SLG",
+      "marker_error_ms": 0.036,
+      "queue": "message",
+      "task_uid": "workerA/s1/t9.5"
+    },
+    {
+      "event_id": "EF78W4KF",
+      "marker_error_ms": 0.012,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t8.4"
+    },
+    {
+      "event_id": "EFG595EQ",
+      "marker_error_ms": 0.035,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t4.1"
+    },
+    {
+      "event_id": "EFJ566FA",
+      "marker_error_ms": -0.02,
+      "queue": "render",
+      "task_uid": "rendererA/s0/t0.10"
+    },
+    {
+      "event_id": "EFJUQ57W",
+      "marker_error_ms": 0.004,
+      "queue": "timer",
+      "task_uid": "workerA/s0/t0.1"
+    },
+    {
+      "event_id": "EFL2XKPG",
+      "marker_error_ms": 1.08,
+      "queue": "message",
+      "task_uid": "workerA/s1/t4.6"
+    },
+    {
+      "event_id": "EFNVMK5M",
+      "marker_error_ms": -0.053,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t6.8"
+    },
+    {
+      "event_id": "EFQVSANL",
+      "marker_error_ms": 0.032,
+      "queue": "message",
+      "task_uid": "workerA/s1/t8.7"
+    },
+    {
+      "event_id": "EFRFWQSR",
+      "marker_error_ms": -0.044,
+      "queue": "render",
+      "task_uid": "workerB/s0/t0.4"
+    },
+    {
+      "event_id": "EFSRKQ6R",
+      "marker_error_ms": -0.038,
+      "queue": "message",
+      "task_uid": "workerB/s1/t6.1"
+    },
+    {
+      "event_id": "EFWBU7LE",
+      "marker_error_ms": 0.024,
+      "queue": "continuation",
+      "task_uid": "rendererB/s0/t6.2"
+    },
+    {
+      "event_id": "EFYK5ANW",
+      "marker_error_ms": 0.038,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t5.4"
+    },
+    {
+      "event_id": "EG577FEH",
+      "marker_error_ms": 0.044,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t9.5"
+    },
+    {
+      "event_id": "EG6GNDX3",
+      "marker_error_ms": -0.053,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t2.7"
+    },
+    {
+      "event_id": "EG7376GJ",
+      "marker_error_ms": -0.051,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t11.10"
+    },
+    {
+      "event_id": "EGAP8YV4",
+      "marker_error_ms": 0.012,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t10.4"
+    },
+    {
+      "event_id": "EGDK3EQW",
+      "marker_error_ms": 0.04,
+      "queue": "user",
+      "task_uid": "rendererA/s0/t11.5"
+    },
+    {
+      "event_id": "EGJGNTFF",
+      "marker_error_ms": 0.002,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t7.8"
+    },
+    {
+      "event_id": "EGKSTQMN",
+      "marker_error_ms": 0.001,
+      "queue": "user",
+      "task_uid": "rendererA/s0/t2.1"
+    },
+    {
+      "event_id": "EGL2KSLW",
+      "marker_error_ms": 0.051,
+      "queue": "render",
+      "task_uid": "rendererB/s0/t0.5"
+    },
+    {
+      "event_id": "EGM5R69K",
+      "marker_error_ms": -0.021,
+      "queue": "message",
+      "task_uid": "workerA/s0/t8.1"
+    },
+    {
+      "event_id": "EGMWAQXN",
+      "marker_error_ms": 0.004,
+      "queue": "message",
+      "task_uid": "workerA/s0/t9.2"
+    },
+    {
+      "event_id": "EGPCXEH2",
+      "marker_error_ms": 0.026,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t10.3"
+    },
+    {
+      "event_id": "EGQ7QJZ5",
+      "marker_error_ms": -0.003,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t6.4"
+    },
+    {
+      "event_id": "EGRRWRZH",
+      "marker_error_ms": -0.023,
+      "queue": "message",
+      "task_uid": "workerB/s1/t2.2"
+    },
+    {
+      "event_id": "EGUFVHKJ",
+      "marker_error_ms": -0.022,
+      "queue": "message",
+      "task_uid": "workerA/s1/t3.2"
+    },
+    {
+      "event_id": "EGV6NY24",
+      "marker_error_ms": -0.027,
+      "queue": "render",
+      "task_uid": "workerB/s1/t1.8"
+    },
+    {
+      "event_id": "EGWB5AWJ",
+      "marker_error_ms": 0.013,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t11.5"
+    },
+    {
+      "event_id": "EGWS9XPW",
+      "marker_error_ms": 0.05,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t11.6"
+    },
+    {
+      "event_id": "EGWW7FAQ",
+      "marker_error_ms": -0.018,
+      "queue": "worker",
+      "task_uid": "workerA/s1/t5.7"
+    },
+    {
+      "event_id": "EGX5TRGH",
+      "marker_error_ms": -0.053,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t6.3"
+    },
+    {
+      "event_id": "EGYAT8CG",
+      "marker_error_ms": -0.024,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t5.8"
+    },
+    {
+      "event_id": "EGZZ3KYA",
+      "marker_error_ms": -0.045,
+      "queue": "microtask",
+      "task_uid": "workerA/s1/t1.6"
+    },
+    {
+      "event_id": "EH2SG82M",
+      "marker_error_ms": -0.001,
+      "queue": "message",
+      "task_uid": "workerB/s0/t3.6"
+    },
+    {
+      "event_id": "EH3P3LTZ",
+      "marker_error_ms": -0.037,
+      "queue": "message",
+      "task_uid": "workerB/s0/t8.5"
+    },
+    {
+      "event_id": "EH4B8D53",
+      "marker_error_ms": -0.006,
+      "queue": "continuation",
+      "task_uid": "rendererB/s0/t5.2"
+    },
+    {
+      "event_id": "EH8MVP5V",
+      "marker_error_ms": -0.038,
+      "queue": "worker",
+      "task_uid": "workerA/s1/t6.5"
+    },
+    {
+      "event_id": "EHBH37T9",
+      "marker_error_ms": -0.047,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t1.2"
+    },
+    {
+      "event_id": "EHE4FC3P",
+      "marker_error_ms": 0.031,
+      "queue": "microtask",
+      "task_uid": "workerB/s0/t8.3"
+    },
+    {
+      "event_id": "EHFRZJJT",
+      "marker_error_ms": -0.052,
+      "queue": "message",
+      "task_uid": "workerB/s1/t10.1"
+    },
+    {
+      "event_id": "EHGDZYAZ",
+      "marker_error_ms": 0.004,
+      "queue": "timer",
+      "task_uid": "rendererA/s1/t4.4"
+    },
+    {
+      "event_id": "EHHNZN4X",
+      "marker_error_ms": 0.047,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t2.3"
+    },
+    {
+      "event_id": "EHLCU7XR",
+      "marker_error_ms": 0.024,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t10.6"
+    },
+    {
+      "event_id": "EHMAETWP",
+      "marker_error_ms": -0.009,
+      "queue": "message",
+      "task_uid": "workerB/s1/t2.3"
+    },
+    {
+      "event_id": "EHQJ6NDA",
+      "marker_error_ms": 0.025,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t7.3"
+    },
+    {
+      "event_id": "EHSK5DL9",
+      "marker_error_ms": -0.008,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t0.4"
+    },
+    {
+      "event_id": "EHWT2RR7",
+      "marker_error_ms": 0.012,
+      "queue": "message",
+      "task_uid": "workerA/s1/t6.7"
+    },
+    {
+      "event_id": "EHZ63DC7",
+      "marker_error_ms": -0.054,
+      "queue": "render",
+      "task_uid": "rendererB/s1/t0.8"
+    },
+    {
+      "event_id": "EJ57N2G5",
+      "marker_error_ms": 0.415,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t3.7"
+    },
+    {
+      "event_id": "EJ8SYJFX",
+      "marker_error_ms": 0.028,
+      "queue": "microtask",
+      "task_uid": "rendererA/s1/t5.3"
+    },
+    {
+      "event_id": "EJA9BAE3",
+      "marker_error_ms": 0.03,
+      "queue": "message",
+      "task_uid": "workerB/s0/t11.6"
+    },
+    {
+      "event_id": "EJAHF4KY",
+      "marker_error_ms": -0.052,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t1.4"
+    },
+    {
+      "event_id": "EJAQUUQ6",
+      "marker_error_ms": 0.011,
+      "queue": "render",
+      "task_uid": "workerB/s1/t5.1"
+    },
+    {
+      "event_id": "EJGCSDKE",
+      "marker_error_ms": 0.037,
+      "queue": "message",
+      "task_uid": "workerB/s0/t3.2"
+    },
+    {
+      "event_id": "EJHVKY4T",
+      "marker_error_ms": -0.016,
+      "queue": "message",
+      "task_uid": "workerA/s1/t11.4"
+    },
+    {
+      "event_id": "EJKYZA6T",
+      "marker_error_ms": -0.049,
+      "queue": "message",
+      "task_uid": "workerA/s1/t3.3"
+    },
+    {
+      "event_id": "EJM32UQ6",
+      "marker_error_ms": -0.055,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t2.9"
+    },
+    {
+      "event_id": "EJMKSRPS",
+      "marker_error_ms": -0.014,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t5.3"
+    },
+    {
+      "event_id": "EJYQWXV8",
+      "marker_error_ms": 0.004,
+      "queue": "message",
+      "task_uid": "workerA/s1/t11.6"
+    },
+    {
+      "event_id": "EJZMULE8",
+      "marker_error_ms": 0.007,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t6.1"
+    },
+    {
+      "event_id": "EJZYVUGQ",
+      "marker_error_ms": -0.051,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t5.1"
+    },
+    {
+      "event_id": "EK298VMW",
+      "marker_error_ms": 0.021,
+      "queue": "render",
+      "task_uid": "workerA/s1/t7.3"
+    },
+    {
+      "event_id": "EK2UJZ8G",
+      "marker_error_ms": 0.039,
+      "queue": "message",
+      "task_uid": "workerB/s0/t10.6"
+    },
+    {
+      "event_id": "EK72S8Q9",
+      "marker_error_ms": 0.005,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t5.3"
+    },
+    {
+      "event_id": "EKCNSSKY",
+      "marker_error_ms": -0.008,
+      "queue": "message",
+      "task_uid": "workerA/s1/t8.5"
+    },
+    {
+      "event_id": "EKG3S2LQ",
+      "marker_error_ms": 0.055,
+      "queue": "render",
+      "task_uid": "rendererA/s1/t7.5"
+    },
+    {
+      "event_id": "EKKXAR78",
+      "marker_error_ms": 0.029,
+      "queue": "message",
+      "task_uid": "workerA/s1/t7.1"
+    },
+    {
+      "event_id": "EKLPXH4B",
+      "marker_error_ms": 0.037,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t3.10"
+    },
+    {
+      "event_id": "EKN59F7U",
+      "marker_error_ms": -0.034,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t5.6"
+    },
+    {
+      "event_id": "EKQCY52Y",
+      "marker_error_ms": -0.034,
+      "queue": "message",
+      "task_uid": "workerB/s1/t3.4"
+    },
+    {
+      "event_id": "EKUX4XNF",
+      "marker_error_ms": -0.031,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t9.1"
+    },
+    {
+      "event_id": "EKV2HPMA",
+      "marker_error_ms": 0.006,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t6.4"
+    },
+    {
+      "event_id": "EKWRPKK7",
+      "marker_error_ms": 0.012,
+      "queue": "message",
+      "task_uid": "workerB/s0/t7.2"
+    },
+    {
+      "event_id": "EKWTXFLW",
+      "marker_error_ms": 0.009,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t2.3"
+    },
+    {
+      "event_id": "EKZFH8G9",
+      "marker_error_ms": 0.003,
+      "queue": "message",
+      "task_uid": "workerA/s0/t10.2"
+    },
+    {
+      "event_id": "EL33QD5J",
+      "marker_error_ms": -0.044,
+      "queue": "message",
+      "task_uid": "workerB/s1/t10.4"
+    },
+    {
+      "event_id": "EL8578ZZ",
+      "marker_error_ms": -0.035,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t8.3"
+    },
+    {
+      "event_id": "EL9TQ587",
+      "marker_error_ms": -0.013,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t0.5"
+    },
+    {
+      "event_id": "ELBN8W4V",
+      "marker_error_ms": 0.008,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t8.8"
+    },
+    {
+      "event_id": "ELEXYUVL",
+      "marker_error_ms": 0.029,
+      "queue": "timer",
+      "task_uid": "rendererB/s0/t3.1"
+    },
+    {
+      "event_id": "ELFGMKRY",
+      "marker_error_ms": 0.043,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t9.7"
+    },
+    {
+      "event_id": "ELFQTGDK",
+      "marker_error_ms": -1.098,
+      "queue": "background",
+      "task_uid": "rendererB/s1/t6.5"
+    },
+    {
+      "event_id": "ELGGXTDU",
+      "marker_error_ms": 0.03,
+      "queue": "render",
+      "task_uid": "workerA/s0/t7.4"
+    },
+    {
+      "event_id": "ELHVJ7ZN",
+      "marker_error_ms": -0.024,
+      "queue": "message",
+      "task_uid": "workerA/s0/t5.5"
+    },
+    {
+      "event_id": "ELMV86N7",
+      "marker_error_ms": -0.018,
+      "queue": "message",
+      "task_uid": "workerA/s0/t1.1"
+    },
+    {
+      "event_id": "ELNNNUUL",
+      "marker_error_ms": 0.043,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t0.7"
+    },
+    {
+      "event_id": "ELQAY4DR",
+      "marker_error_ms": -0.041,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t9.3"
+    },
+    {
+      "event_id": "ELTB5Q7J",
+      "marker_error_ms": 0.045,
+      "queue": "message",
+      "task_uid": "workerA/s0/t10.4"
+    },
+    {
+      "event_id": "ELVBUY4W",
+      "marker_error_ms": -0.011,
+      "queue": "message",
+      "task_uid": "workerB/s1/t8.5"
+    },
+    {
+      "event_id": "ELYZJHZG",
+      "marker_error_ms": 0.021,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t8.4"
+    },
+    {
+      "event_id": "ELZASZ9H",
+      "marker_error_ms": -0.052,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t3.5"
+    },
+    {
+      "event_id": "EM4XNQUA",
+      "marker_error_ms": -0.021,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t0.2"
+    },
+    {
+      "event_id": "EM6YF6C6",
+      "marker_error_ms": -0.007,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t4.4"
+    },
+    {
+      "event_id": "EME3D639",
+      "marker_error_ms": 0.011,
+      "queue": "timer",
+      "task_uid": "workerB/s1/t0.4"
+    },
+    {
+      "event_id": "EMGPQKQK",
+      "marker_error_ms": -0.01,
+      "queue": "message",
+      "task_uid": "workerB/s1/t10.3"
+    },
+    {
+      "event_id": "EML3U7CV",
+      "marker_error_ms": 0.044,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t10.7"
+    },
+    {
+      "event_id": "EMLDFKBY",
+      "marker_error_ms": -0.043,
+      "queue": "microtask",
+      "task_uid": "rendererB/s0/t11.4"
+    },
+    {
+      "event_id": "EMLFK9XC",
+      "marker_error_ms": -0.013,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t8.10"
+    },
+    {
+      "event_id": "EMLVNYZL",
+      "marker_error_ms": 0.051,
+      "queue": "user",
+      "task_uid": "rendererB/s1/t10.2"
+    },
+    {
+      "event_id": "EMMJPF97",
+      "marker_error_ms": -0.003,
+      "queue": "message",
+      "task_uid": "workerA/s0/t3.3"
+    },
+    {
+      "event_id": "EMMRVWTH",
+      "marker_error_ms": 0.054,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t9.4"
+    },
+    {
+      "event_id": "EMRNQZ8W",
+      "marker_error_ms": 0.043,
+      "queue": "message",
+      "task_uid": "workerB/s0/t4.4"
+    },
+    {
+      "event_id": "EMTPCB22",
+      "marker_error_ms": -0.026,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t3.9"
+    },
+    {
+      "event_id": "EMUTABE7",
+      "marker_error_ms": -0.009,
+      "queue": "message",
+      "task_uid": "workerB/s0/t10.3"
+    },
+    {
+      "event_id": "EMX9X9L8",
+      "marker_error_ms": -0.021,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t1.3"
+    },
+    {
+      "event_id": "EMXDW229",
+      "marker_error_ms": -0.003,
+      "queue": "message",
+      "task_uid": "workerB/s0/t11.3"
+    },
+    {
+      "event_id": "EN36EPYL",
+      "marker_error_ms": -0.048,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t4.6"
+    },
+    {
+      "event_id": "EN6EN9DG",
+      "marker_error_ms": -0.723,
+      "queue": "message",
+      "task_uid": "workerA/s1/t9.2"
+    },
+    {
+      "event_id": "EN7ADBPR",
+      "marker_error_ms": 0.043,
+      "queue": "render",
+      "task_uid": "rendererB/s0/t0.4"
+    },
+    {
+      "event_id": "EN8BZAHP",
+      "marker_error_ms": 0.037,
+      "queue": "message",
+      "task_uid": "workerA/s1/t9.4"
+    },
+    {
+      "event_id": "EN9NABZ5",
+      "marker_error_ms": 0.055,
+      "queue": "user",
+      "task_uid": "rendererA/s0/t5.2"
+    },
+    {
+      "event_id": "ENAJUER8",
+      "marker_error_ms": 0.041,
+      "queue": "worker",
+      "task_uid": "workerB/s0/t2.3"
+    },
+    {
+      "event_id": "ENAKKBY8",
+      "marker_error_ms": -0.038,
+      "queue": "worker",
+      "task_uid": "workerA/s0/t0.5"
+    },
+    {
+      "event_id": "ENBPGSLF",
+      "marker_error_ms": -0.365,
+      "queue": "background",
+      "task_uid": "rendererB/s1/t8.3"
+    },
+    {
+      "event_id": "ENBRY5JZ",
+      "marker_error_ms": -0.023,
+      "queue": "timer",
+      "task_uid": "workerA/s0/t8.5"
+    },
+    {
+      "event_id": "ENC4Q9QX",
+      "marker_error_ms": -0.032,
+      "queue": "microtask",
+      "task_uid": "rendererB/s1/t3.11"
+    },
+    {
+      "event_id": "ENDKH4HR",
+      "marker_error_ms": 0.037,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t9.2"
+    },
+    {
+      "event_id": "ENENSXWG",
+      "marker_error_ms": 0.029,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t8.2"
+    },
+    {
+      "event_id": "ENHHXNHV",
+      "marker_error_ms": 0.022,
+      "queue": "message",
+      "task_uid": "workerB/s1/t11.2"
+    },
+    {
+      "event_id": "ENMCFDGL",
+      "marker_error_ms": -0.018,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t6.1"
+    },
+    {
+      "event_id": "ENQTASSN",
+      "marker_error_ms": -0.045,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t8.2"
+    },
+    {
+      "event_id": "ENRJ6K4C",
+      "marker_error_ms": -0.031,
+      "queue": "message",
+      "task_uid": "workerA/s1/t2.3"
+    },
+    {
+      "event_id": "ENSG57YR",
+      "marker_error_ms": -0.004,
+      "queue": "worker",
+      "task_uid": "workerA/s0/t5.6"
+    },
+    {
+      "event_id": "ENTHGSL8",
+      "marker_error_ms": -0.048,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t9.4"
+    },
+    {
+      "event_id": "ENVWURR5",
+      "marker_error_ms": 0.041,
+      "queue": "render",
+      "task_uid": "workerB/s0/t6.5"
+    },
+    {
+      "event_id": "ENX8LWLR",
+      "marker_error_ms": -0.045,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t5.10"
+    },
+    {
+      "event_id": "EP7Z6BWQ",
+      "marker_error_ms": 0.034,
+      "queue": "message",
+      "task_uid": "workerB/s0/t8.2"
+    },
+    {
+      "event_id": "EPAQBXZN",
+      "marker_error_ms": -0.051,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t1.5"
+    },
+    {
+      "event_id": "EPB6FPNF",
+      "marker_error_ms": 0.0,
+      "queue": "message",
+      "task_uid": "workerA/s0/t2.2"
+    },
+    {
+      "event_id": "EPBRLZYZ",
+      "marker_error_ms": 0.007,
+      "queue": "message",
+      "task_uid": "workerA/s1/t1.1"
+    },
+    {
+      "event_id": "EPGRXBUC",
+      "marker_error_ms": -0.037,
+      "queue": "message",
+      "task_uid": "workerA/s0/t0.3"
+    },
+    {
+      "event_id": "EPK47MNT",
+      "marker_error_ms": -0.032,
+      "queue": "message",
+      "task_uid": "workerB/s0/t7.1"
+    },
+    {
+      "event_id": "EPLHNH9A",
+      "marker_error_ms": -0.034,
+      "queue": "message",
+      "task_uid": "workerA/s1/t1.7"
+    },
+    {
+      "event_id": "EPQ82VJG",
+      "marker_error_ms": 0.016,
+      "queue": "message",
+      "task_uid": "workerA/s1/t9.1"
+    },
+    {
+      "event_id": "EPRW58KT",
+      "marker_error_ms": -0.009,
+      "queue": "worker",
+      "task_uid": "workerA/s1/t6.2"
+    },
+    {
+      "event_id": "EPTP4MV4",
+      "marker_error_ms": 0.036,
+      "queue": "user",
+      "task_uid": "rendererB/s0/t9.2"
+    },
+    {
+      "event_id": "EPUDFLMN",
+      "marker_error_ms": -0.028,
+      "queue": "message",
+      "task_uid": "workerA/s0/t6.5"
+    },
+    {
+      "event_id": "EPWHL6QS",
+      "marker_error_ms": -0.01,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t6.8"
+    },
+    {
+      "event_id": "EQ2GTX3Y",
+      "marker_error_ms": -0.017,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t5.7"
+    },
+    {
+      "event_id": "EQ5LLATV",
+      "marker_error_ms": -0.05,
+      "queue": "message",
+      "task_uid": "workerB/s0/t4.5"
+    },
+    {
+      "event_id": "EQ655M59",
+      "marker_error_ms": 0.047,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t9.9"
+    },
+    {
+      "event_id": "EQ6A4X6W",
+      "marker_error_ms": -0.048,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t11.2"
+    },
+    {
+      "event_id": "EQAS9ZTV",
+      "marker_error_ms": 0.055,
+      "queue": "message",
+      "task_uid": "workerA/s0/t9.1"
+    },
+    {
+      "event_id": "EQBGK72B",
+      "marker_error_ms": 0.0,
+      "queue": "message",
+      "task_uid": "workerA/s1/t5.3"
+    },
+    {
+      "event_id": "EQFBDJWB",
+      "marker_error_ms": 0.019,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t9.3"
+    },
+    {
+      "event_id": "EQHFA2SN",
+      "marker_error_ms": 0.05,
+      "queue": "message",
+      "task_uid": "workerA/s0/t7.1"
+    },
+    {
+      "event_id": "EQJUC4UY",
+      "marker_error_ms": -0.028,
+      "queue": "render",
+      "task_uid": "rendererB/s0/t0.1"
+    },
+    {
+      "event_id": "EQQNHDMQ",
+      "marker_error_ms": 1.08,
+      "queue": "user",
+      "task_uid": "rendererB/s1/t4.5"
+    },
+    {
+      "event_id": "EQSRAT9M",
+      "marker_error_ms": -0.012,
+      "queue": "message",
+      "task_uid": "workerB/s1/t9.7"
+    },
+    {
+      "event_id": "EQZPEESJ",
+      "marker_error_ms": -0.014,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t10.9"
+    },
+    {
+      "event_id": "ER2MP9JD",
+      "marker_error_ms": -0.042,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t4.4"
+    },
+    {
+      "event_id": "ER5GXJWY",
+      "marker_error_ms": 0.015,
+      "queue": "render",
+      "task_uid": "rendererA/s1/t2.6"
+    },
+    {
+      "event_id": "ER5KPY39",
+      "marker_error_ms": 0.013,
+      "queue": "user",
+      "task_uid": "rendererA/s1/t0.7"
+    },
+    {
+      "event_id": "ER5P7KXM",
+      "marker_error_ms": -0.014,
+      "queue": "message",
+      "task_uid": "workerA/s0/t4.4"
+    },
+    {
+      "event_id": "ER9C2K2L",
+      "marker_error_ms": -0.031,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t11.6"
+    },
+    {
+      "event_id": "ER9XACGE",
+      "marker_error_ms": 0.05,
+      "queue": "message",
+      "task_uid": "workerB/s0/t11.2"
+    },
+    {
+      "event_id": "ER9XGN2L",
+      "marker_error_ms": 0.045,
+      "queue": "worker",
+      "task_uid": "workerB/s1/t6.5"
+    },
+    {
+      "event_id": "ERBS7ABN",
+      "marker_error_ms": 0.006,
+      "queue": "message",
+      "task_uid": "workerB/s1/t11.3"
+    },
+    {
+      "event_id": "ERCCT2FA",
+      "marker_error_ms": -0.004,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t4.7"
+    },
+    {
+      "event_id": "ERKB6JPE",
+      "marker_error_ms": -0.039,
+      "queue": "microtask",
+      "task_uid": "workerB/s1/t1.3"
+    },
+    {
+      "event_id": "ERLDDW2N",
+      "marker_error_ms": -0.052,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t8.4"
+    },
+    {
+      "event_id": "ERN2YLZA",
+      "marker_error_ms": 0.006,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t3.3"
+    },
+    {
+      "event_id": "ERNGXV9H",
+      "marker_error_ms": -0.026,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t6.5"
+    },
+    {
+      "event_id": "ERTPR6ZD",
+      "marker_error_ms": 0.04,
+      "queue": "message",
+      "task_uid": "workerB/s1/t2.5"
+    },
+    {
+      "event_id": "ERZ54Q66",
+      "marker_error_ms": 0.032,
+      "queue": "timer",
+      "task_uid": "workerA/s0/t2.4"
+    },
+    {
+      "event_id": "ES24ASRY",
+      "marker_error_ms": 0.017,
+      "queue": "message",
+      "task_uid": "workerA/s1/t8.1"
+    },
+    {
+      "event_id": "ES2Y6BYW",
+      "marker_error_ms": 0.021,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t11.3"
+    },
+    {
+      "event_id": "ES3FCCJ7",
+      "marker_error_ms": 0.323,
+      "queue": "background",
+      "task_uid": "workerA/s1/t8.2"
+    },
+    {
+      "event_id": "ES5HVXBH",
+      "marker_error_ms": 0.031,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t6.2"
+    },
+    {
+      "event_id": "ES5NKDQT",
+      "marker_error_ms": 0.001,
+      "queue": "render",
+      "task_uid": "workerA/s1/t8.6"
+    },
+    {
+      "event_id": "ES6GA7JJ",
+      "marker_error_ms": 0.041,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t5.4"
+    },
+    {
+      "event_id": "ESACZWNV",
+      "marker_error_ms": -0.021,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t7.4"
+    },
+    {
+      "event_id": "ESH8NCX6",
+      "marker_error_ms": 0.022,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t10.1"
+    },
+    {
+      "event_id": "ESJCGXT4",
+      "marker_error_ms": -0.007,
+      "queue": "message",
+      "task_uid": "workerA/s1/t0.1"
+    },
+    {
+      "event_id": "ESKRCUCT",
+      "marker_error_ms": -0.019,
+      "queue": "message",
+      "task_uid": "workerB/s0/t3.1"
+    },
+    {
+      "event_id": "ESKYPN6M",
+      "marker_error_ms": -0.005,
+      "queue": "message",
+      "task_uid": "workerB/s1/t3.6"
+    },
+    {
+      "event_id": "ESMJS5TR",
+      "marker_error_ms": 0.026,
+      "queue": "message",
+      "task_uid": "workerB/s1/t1.7"
+    },
+    {
+      "event_id": "ESNP3MJF",
+      "marker_error_ms": 0.039,
+      "queue": "timer",
+      "task_uid": "workerB/s0/t2.7"
+    },
+    {
+      "event_id": "ESQRFSAX",
+      "marker_error_ms": -0.055,
+      "queue": "timer",
+      "task_uid": "workerA/s0/t1.6"
+    },
+    {
+      "event_id": "ESX3XZZ4",
+      "marker_error_ms": 0.046,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t3.6"
+    },
+    {
+      "event_id": "ET4V89QM",
+      "marker_error_ms": -0.009,
+      "queue": "render",
+      "task_uid": "rendererA/s1/t5.2"
+    },
+    {
+      "event_id": "ET5HRZDZ",
+      "marker_error_ms": 0.054,
+      "queue": "render",
+      "task_uid": "rendererA/s1/t0.1"
+    },
+    {
+      "event_id": "ET8JNNY5",
+      "marker_error_ms": 0.032,
+      "queue": "microtask",
+      "task_uid": "rendererB/s0/t4.3"
+    },
+    {
+      "event_id": "ET965HN8",
+      "marker_error_ms": 0.011,
+      "queue": "message",
+      "task_uid": "workerB/s0/t9.2"
+    },
+    {
+      "event_id": "ET9EKSL4",
+      "marker_error_ms": -0.043,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t2.8"
+    },
+    {
+      "event_id": "ETATPE87",
+      "marker_error_ms": -0.011,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t8.5"
+    },
+    {
+      "event_id": "ETF49ZPV",
+      "marker_error_ms": -0.033,
+      "queue": "message",
+      "task_uid": "workerA/s0/t9.3"
+    },
+    {
+      "event_id": "ETGGFNSG",
+      "marker_error_ms": 0.034,
+      "queue": "microtask",
+      "task_uid": "workerB/s1/t10.7"
+    },
+    {
+      "event_id": "ETJBENBZ",
+      "marker_error_ms": -0.006,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t10.9"
+    },
+    {
+      "event_id": "ETKA2F77",
+      "marker_error_ms": -0.026,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t4.5"
+    },
+    {
+      "event_id": "ETLXRSH3",
+      "marker_error_ms": -0.025,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t4.5"
+    },
+    {
+      "event_id": "ETRNVTSV",
+      "marker_error_ms": 0.029,
+      "queue": "message",
+      "task_uid": "workerB/s0/t1.2"
+    },
+    {
+      "event_id": "ETSVTVAA",
+      "marker_error_ms": -0.006,
+      "queue": "microtask",
+      "task_uid": "rendererB/s0/t2.4"
+    },
+    {
+      "event_id": "ETT6Z8GS",
+      "marker_error_ms": -0.051,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t7.5"
+    },
+    {
+      "event_id": "ETWR5MML",
+      "marker_error_ms": 0.052,
+      "queue": "render",
+      "task_uid": "rendererA/s0/t7.3"
+    },
+    {
+      "event_id": "ETXDNVAV",
+      "marker_error_ms": 0.033,
+      "queue": "microtask",
+      "task_uid": "workerA/s0/t3.4"
+    },
+    {
+      "event_id": "EU6YWMAD",
+      "marker_error_ms": -0.01,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t3.7"
+    },
+    {
+      "event_id": "EU9J8AZ3",
+      "marker_error_ms": 0.043,
+      "queue": "worker",
+      "task_uid": "workerB/s1/t9.1"
+    },
+    {
+      "event_id": "EUBQX34S",
+      "marker_error_ms": -0.019,
+      "queue": "message",
+      "task_uid": "workerB/s1/t2.7"
+    },
+    {
+      "event_id": "EUEMUJQJ",
+      "marker_error_ms": -0.008,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t9.4"
+    },
+    {
+      "event_id": "EUFSE76G",
+      "marker_error_ms": -0.018,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t3.6"
+    },
+    {
+      "event_id": "EUGPPSZV",
+      "marker_error_ms": 0.033,
+      "queue": "worker",
+      "task_uid": "workerB/s0/t11.4"
+    },
+    {
+      "event_id": "EUJ388MG",
+      "marker_error_ms": -0.015,
+      "queue": "render",
+      "task_uid": "workerB/s1/t4.1"
+    },
+    {
+      "event_id": "EUJV2PSY",
+      "marker_error_ms": -0.003,
+      "queue": "message",
+      "task_uid": "workerA/s0/t11.5"
+    },
+    {
+      "event_id": "EULA7R23",
+      "marker_error_ms": 0.047,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t7.1"
+    },
+    {
+      "event_id": "EUM5MA8Z",
+      "marker_error_ms": -0.042,
+      "queue": "user",
+      "task_uid": "rendererA/s1/t1.1"
+    },
+    {
+      "event_id": "EUN3CGKF",
+      "marker_error_ms": 0.043,
+      "queue": "message",
+      "task_uid": "workerA/s0/t7.2"
+    },
+    {
+      "event_id": "EUPE6GTA",
+      "marker_error_ms": -0.053,
+      "queue": "message",
+      "task_uid": "rendererB/s0/t1.1"
+    },
+    {
+      "event_id": "EUPRUB2K",
+      "marker_error_ms": -0.014,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t1.10"
+    },
+    {
+      "event_id": "EUTJT3LU",
+      "marker_error_ms": -0.007,
+      "queue": "message",
+      "task_uid": "workerA/s0/t6.4"
+    },
+    {
+      "event_id": "EUUDFUHX",
+      "marker_error_ms": 0.036,
+      "queue": "message",
+      "task_uid": "workerA/s0/t6.6"
+    },
+    {
+      "event_id": "EUV9H4P7",
+      "marker_error_ms": -0.034,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t0.6"
+    },
+    {
+      "event_id": "EUVL4Z8S",
+      "marker_error_ms": 0.031,
+      "queue": "message",
+      "task_uid": "workerA/s0/t8.4"
+    },
+    {
+      "event_id": "EUVNQ3QA",
+      "marker_error_ms": 0.037,
+      "queue": "message",
+      "task_uid": "workerB/s0/t11.5"
+    },
+    {
+      "event_id": "EV6S3NWH",
+      "marker_error_ms": -0.027,
+      "queue": "message",
+      "task_uid": "workerB/s1/t11.5"
+    },
+    {
+      "event_id": "EVMTKR9F",
+      "marker_error_ms": -0.047,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t9.2"
+    },
+    {
+      "event_id": "EVTF8HVD",
+      "marker_error_ms": -0.0,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t10.10"
+    },
+    {
+      "event_id": "EVTTRRMX",
+      "marker_error_ms": 0.036,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t3.5"
+    },
+    {
+      "event_id": "EVZKG9HF",
+      "marker_error_ms": -0.031,
+      "queue": "message",
+      "task_uid": "workerB/s1/t7.6"
+    },
+    {
+      "event_id": "EW33NN4H",
+      "marker_error_ms": 0.053,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t10.4"
+    },
+    {
+      "event_id": "EWDQT5DC",
+      "marker_error_ms": 0.014,
+      "queue": "message",
+      "task_uid": "workerB/s1/t7.4"
+    },
+    {
+      "event_id": "EWFW4Y6V",
+      "marker_error_ms": 0.027,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t3.4"
+    },
+    {
+      "event_id": "EWH3VZG8",
+      "marker_error_ms": 0.054,
+      "queue": "microtask",
+      "task_uid": "rendererB/s1/t4.11"
+    },
+    {
+      "event_id": "EWH9LK5Z",
+      "marker_error_ms": 0.018,
+      "queue": "message",
+      "task_uid": "workerB/s0/t5.3"
+    },
+    {
+      "event_id": "EWHMMRK9",
+      "marker_error_ms": 0.046,
+      "queue": "worker",
+      "task_uid": "workerB/s0/t6.1"
+    },
+    {
+      "event_id": "EWL42JWF",
+      "marker_error_ms": -0.019,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t7.6"
+    },
+    {
+      "event_id": "EWM92M2T",
+      "marker_error_ms": -0.043,
+      "queue": "continuation",
+      "task_uid": "rendererA/s0/t10.8"
+    },
+    {
+      "event_id": "EWMGTVDB",
+      "marker_error_ms": 0.034,
+      "queue": "render",
+      "task_uid": "rendererB/s0/t4.1"
+    },
+    {
+      "event_id": "EWN6GYWS",
+      "marker_error_ms": -0.027,
+      "queue": "render",
+      "task_uid": "rendererA/s0/t4.3"
+    },
+    {
+      "event_id": "EWPUZFQP",
+      "marker_error_ms": -0.031,
+      "queue": "microtask",
+      "task_uid": "workerB/s1/t11.7"
+    },
+    {
+      "event_id": "EWUK7EZW",
+      "marker_error_ms": -0.0,
+      "queue": "message",
+      "task_uid": "workerB/s1/t4.4"
+    },
+    {
+      "event_id": "EWUYR5XZ",
+      "marker_error_ms": -0.41,
+      "queue": "background",
+      "task_uid": "rendererB/s1/t5.7"
+    },
+    {
+      "event_id": "EWV8D7BH",
+      "marker_error_ms": 0.002,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t0.11"
+    },
+    {
+      "event_id": "EWVHU2LD",
+      "marker_error_ms": 0.031,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t0.4"
+    },
+    {
+      "event_id": "EWVLU6ZT",
+      "marker_error_ms": 0.05,
+      "queue": "timer",
+      "task_uid": "workerB/s0/t1.1"
+    },
+    {
+      "event_id": "EX25X79K",
+      "marker_error_ms": 0.024,
+      "queue": "message",
+      "task_uid": "workerA/s1/t0.2"
+    },
+    {
+      "event_id": "EX3LV6X5",
+      "marker_error_ms": 0.046,
+      "queue": "message",
+      "task_uid": "workerA/s0/t3.5"
+    },
+    {
+      "event_id": "EX5WM6HC",
+      "marker_error_ms": 0.031,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t4.9"
+    },
+    {
+      "event_id": "EX6C4QSC",
+      "marker_error_ms": 0.011,
+      "queue": "message",
+      "task_uid": "workerA/s0/t0.4"
+    },
+    {
+      "event_id": "EXASH2CT",
+      "marker_error_ms": 0.034,
+      "queue": "message",
+      "task_uid": "workerA/s1/t5.5"
+    },
+    {
+      "event_id": "EXBX99LQ",
+      "marker_error_ms": -0.02,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t10.5"
+    },
+    {
+      "event_id": "EXEHAQV6",
+      "marker_error_ms": -0.002,
+      "queue": "message",
+      "task_uid": "workerA/s0/t2.3"
+    },
+    {
+      "event_id": "EXNY76CU",
+      "marker_error_ms": -0.021,
+      "queue": "user",
+      "task_uid": "rendererA/s1/t4.2"
+    },
+    {
+      "event_id": "EXPBFQU9",
+      "marker_error_ms": 0.025,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t0.9"
+    },
+    {
+      "event_id": "EXQ5VKP3",
+      "marker_error_ms": 0.022,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t5.1"
+    },
+    {
+      "event_id": "EXRBXP8A",
+      "marker_error_ms": -0.033,
+      "queue": "render",
+      "task_uid": "workerB/s0/t6.2"
+    },
+    {
+      "event_id": "EXRKEEMN",
+      "marker_error_ms": 0.018,
+      "queue": "timer",
+      "task_uid": "rendererA/s0/t3.2"
+    },
+    {
+      "event_id": "EXUEL2DQ",
+      "marker_error_ms": -0.01,
+      "queue": "message",
+      "task_uid": "workerB/s0/t9.5"
+    },
+    {
+      "event_id": "EXUQ5ZT5",
+      "marker_error_ms": 0.025,
+      "queue": "timer",
+      "task_uid": "workerB/s1/t4.2"
+    },
+    {
+      "event_id": "EXXW7PWC",
+      "marker_error_ms": 0.028,
+      "queue": "microtask",
+      "task_uid": "workerA/s0/t9.5"
+    },
+    {
+      "event_id": "EXYQLPUD",
+      "marker_error_ms": 0.042,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t8.8"
+    },
+    {
+      "event_id": "EY22LF8C",
+      "marker_error_ms": 0.025,
+      "queue": "message",
+      "task_uid": "workerB/s0/t10.5"
+    },
+    {
+      "event_id": "EY25FCDZ",
+      "marker_error_ms": 0.045,
+      "queue": "message",
+      "task_uid": "workerA/s0/t11.4"
+    },
+    {
+      "event_id": "EY2GWHFP",
+      "marker_error_ms": -0.02,
+      "queue": "message",
+      "task_uid": "workerA/s1/t1.5"
+    },
+    {
+      "event_id": "EY2WGKT5",
+      "marker_error_ms": 0.055,
+      "queue": "message",
+      "task_uid": "workerB/s1/t1.6"
+    },
+    {
+      "event_id": "EY5R8V6M",
+      "marker_error_ms": -0.031,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t9.5"
+    },
+    {
+      "event_id": "EY6YFWAZ",
+      "marker_error_ms": -0.018,
+      "queue": "render",
+      "task_uid": "rendererB/s1/t6.4"
+    },
+    {
+      "event_id": "EY986XP2",
+      "marker_error_ms": 0.027,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t0.6"
+    },
+    {
+      "event_id": "EY99Y6WJ",
+      "marker_error_ms": -0.023,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t11.3"
+    },
+    {
+      "event_id": "EY9LZTZU",
+      "marker_error_ms": -0.044,
+      "queue": "continuation",
+      "task_uid": "rendererA/s1/t9.1"
+    },
+    {
+      "event_id": "EYA7KNA8",
+      "marker_error_ms": -0.004,
+      "queue": "render",
+      "task_uid": "workerB/s0/t3.4"
+    },
+    {
+      "event_id": "EYCDHD3B",
+      "marker_error_ms": -0.048,
+      "queue": "message",
+      "task_uid": "workerB/s0/t6.3"
+    },
+    {
+      "event_id": "EYCYD696",
+      "marker_error_ms": 0.017,
+      "queue": "message",
+      "task_uid": "workerB/s1/t8.3"
+    },
+    {
+      "event_id": "EYD5KXRV",
+      "marker_error_ms": -0.017,
+      "queue": "render",
+      "task_uid": "rendererB/s0/t7.1"
+    },
+    {
+      "event_id": "EYK3U22Z",
+      "marker_error_ms": -0.046,
+      "queue": "message",
+      "task_uid": "workerB/s0/t3.5"
+    },
+    {
+      "event_id": "EYLLWUHB",
+      "marker_error_ms": -0.044,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t4.1"
+    },
+    {
+      "event_id": "EYMCKA2C",
+      "marker_error_ms": 0.018,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t3.3"
+    },
+    {
+      "event_id": "EYMJWFNJ",
+      "marker_error_ms": 0.018,
+      "queue": "message",
+      "task_uid": "workerA/s0/t6.1"
+    },
+    {
+      "event_id": "EYQ4T2DK",
+      "marker_error_ms": 0.013,
+      "queue": "timer",
+      "task_uid": "rendererB/s0/t4.4"
+    },
+    {
+      "event_id": "EYQRA6K3",
+      "marker_error_ms": -0.015,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t8.7"
+    },
+    {
+      "event_id": "EYRFDSPH",
+      "marker_error_ms": 0.039,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t3.6"
+    },
+    {
+      "event_id": "EYSEN68C",
+      "marker_error_ms": -0.015,
+      "queue": "message",
+      "task_uid": "rendererA/s1/t5.1"
+    },
+    {
+      "event_id": "EYT7NAT8",
+      "marker_error_ms": 0.018,
+      "queue": "continuation",
+      "task_uid": "rendererB/s1/t0.9"
+    },
+    {
+      "event_id": "EYW23NZJ",
+      "marker_error_ms": 0.04,
+      "queue": "message",
+      "task_uid": "rendererA/s0/t11.9"
+    },
+    {
+      "event_id": "EYZHMGP3",
+      "marker_error_ms": -0.017,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t1.4"
+    },
+    {
+      "event_id": "EZ3MDGTZ",
+      "marker_error_ms": -0.055,
+      "queue": "microtask",
+      "task_uid": "rendererB/s1/t1.11"
+    },
+    {
+      "event_id": "EZ5AE844",
+      "marker_error_ms": -0.007,
+      "queue": "worker",
+      "task_uid": "workerA/s0/t4.2"
+    },
+    {
+      "event_id": "EZ5SPSRY",
+      "marker_error_ms": 0.047,
+      "queue": "render",
+      "task_uid": "workerB/s0/t0.7"
+    },
+    {
+      "event_id": "EZ6S5FHL",
+      "marker_error_ms": -0.05,
+      "queue": "timer",
+      "task_uid": "workerA/s1/t8.3"
+    },
+    {
+      "event_id": "EZ8LHL4D",
+      "marker_error_ms": 0.016,
+      "queue": "timer",
+      "task_uid": "rendererB/s1/t5.6"
+    },
+    {
+      "event_id": "EZ8YW7YR",
+      "marker_error_ms": -0.006,
+      "queue": "message",
+      "task_uid": "workerA/s1/t2.7"
+    },
+    {
+      "event_id": "EZ92NF4A",
+      "marker_error_ms": -0.011,
+      "queue": "message",
+      "task_uid": "rendererB/s1/t3.2"
+    },
+    {
+      "event_id": "EZAP8RYR",
+      "marker_error_ms": 0.035,
+      "queue": "timer",
+      "task_uid": "workerB/s0/t5.4"
+    },
+    {
+      "event_id": "EZFYHPQP",
+      "marker_error_ms": 0.002,
+      "queue": "render",
+      "task_uid": "workerB/s1/t0.1"
+    },
+    {
+      "event_id": "EZH67LNU",
+      "marker_error_ms": 0.004,
+      "queue": "message",
+      "task_uid": "workerB/s1/t8.4"
+    },
+    {
+      "event_id": "EZLFXA47",
+      "marker_error_ms": -0.033,
+      "queue": "message",
+      "task_uid": "workerB/s1/t4.3"
+    },
+    {
+      "event_id": "EZW4RH2G",
+      "marker_error_ms": 0.004,
+      "queue": "message",
+      "task_uid": "workerB/s1/t7.1"
+    }
+  ],
+  "task_paths": [
+    {
+      "handoff_count": 2,
+      "incident_id": "I001",
+      "tasks": [
+        "rendererA/s0/t2.1",
+        "rendererA/s0/t4.1",
+        "rendererA/s0/t5.1",
+        "rendererA/s0/t6.1",
+        "workerA/s0/t1.1",
+        "workerA/s0/t2.1",
+        "workerA/s0/t3.1",
+        "workerA/s0/t5.1",
+        "rendererA/s0/t7.1",
+        "rendererA/s0/t9.1",
+        "rendererA/s0/t10.1",
+        "rendererA/s0/t11.1",
+        "rendererA/s0/t0.2"
+      ],
+      "trigger_event_id": "EGKSTQMN"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I002",
+      "tasks": [
+        "rendererA/s0/t5.2",
+        "rendererA/s0/t6.2",
+        "workerA/s1/t0.1",
+        "workerA/s1/t2.1",
+        "workerA/s1/t3.1",
+        "workerA/s1/t4.1",
+        "workerA/s1/t5.1",
+        "workerA/s1/t6.1",
+        "rendererA/s0/t8.2",
+        "rendererA/s0/t9.2",
+        "rendererA/s0/t10.2",
+        "rendererA/s0/t11.2"
+      ],
+      "trigger_event_id": "EN9NABZ5"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I003",
+      "tasks": [
+        "rendererA/s1/t1.1",
+        "rendererA/s1/t3.1",
+        "rendererA/s1/t4.1",
+        "workerB/s0/t3.1",
+        "workerB/s0/t5.1",
+        "workerB/s0/t6.1",
+        "workerB/s0/t8.1",
+        "workerB/s0/t9.1",
+        "workerB/s0/t10.1",
+        "rendererA/s1/t6.1",
+        "rendererA/s1/t8.1",
+        "rendererA/s1/t9.1",
+        "rendererA/s1/t0.2",
+        "rendererA/s1/t1.2"
+      ],
+      "trigger_event_id": "EUM5MA8Z"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I004",
+      "tasks": [
+        "rendererA/s1/t4.2",
+        "rendererA/s1/t6.2",
+        "rendererA/s1/t7.2",
+        "workerB/s1/t6.1",
+        "workerB/s1/t8.1",
+        "workerB/s1/t9.1",
+        "workerB/s1/t11.1",
+        "workerB/s1/t0.2",
+        "workerB/s1/t1.2",
+        "rendererA/s1/t10.2",
+        "rendererA/s1/t11.2",
+        "rendererA/s1/t0.3",
+        "rendererA/s1/t1.3",
+        "rendererA/s1/t2.3"
+      ],
+      "trigger_event_id": "EXNY76CU"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I005",
+      "tasks": [
+        "rendererB/s1/t11.1",
+        "rendererB/s1/t1.2",
+        "rendererB/s1/t2.2",
+        "rendererB/s1/t3.2",
+        "workerA/s0/t2.2",
+        "workerA/s0/t4.2",
+        "workerA/s0/t5.2",
+        "workerA/s0/t6.2",
+        "workerA/s0/t7.2",
+        "rendererB/s1/t4.2",
+        "rendererB/s1/t5.2",
+        "rendererB/s1/t6.2",
+        "rendererB/s1/t7.2"
+      ],
+      "trigger_event_id": "E64289YB"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I006",
+      "tasks": [
+        "rendererB/s1/t10.2",
+        "rendererB/s1/t11.2",
+        "rendererB/s1/t0.3",
+        "rendererB/s1/t1.3",
+        "workerA/s1/t3.2",
+        "workerA/s1/t5.2",
+        "workerA/s1/t6.2",
+        "workerA/s1/t7.2",
+        "rendererB/s1/t5.3",
+        "rendererB/s1/t7.3",
+        "rendererB/s1/t9.3",
+        "rendererB/s1/t10.3",
+        "rendererB/s1/t11.3"
+      ],
+      "trigger_event_id": "EMLVNYZL"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I007",
+      "tasks": [
+        "rendererB/s0/t10.1",
+        "rendererB/s0/t11.1",
+        "rendererB/s0/t0.2",
+        "rendererB/s0/t1.2",
+        "workerB/s0/t0.3",
+        "workerB/s0/t2.3",
+        "workerB/s0/t3.3",
+        "workerB/s0/t4.3",
+        "workerB/s0/t5.3",
+        "rendererB/s0/t3.2",
+        "rendererB/s0/t4.2",
+        "rendererB/s0/t5.2",
+        "rendererB/s0/t6.2"
+      ],
+      "trigger_event_id": "E9KR7HHM"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I008",
+      "tasks": [
+        "rendererB/s0/t9.2",
+        "rendererB/s0/t11.2",
+        "rendererB/s0/t0.3",
+        "rendererB/s0/t1.3",
+        "workerB/s1/t2.3",
+        "workerB/s1/t5.3",
+        "workerB/s1/t6.3",
+        "workerB/s1/t7.3",
+        "workerB/s1/t9.3",
+        "workerB/s1/t10.3",
+        "rendererB/s0/t5.3",
+        "rendererB/s0/t6.3",
+        "rendererB/s0/t10.3"
+      ],
+      "trigger_event_id": "EPTP4MV4"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I009",
+      "tasks": [
+        "rendererA/s0/t9.4",
+        "rendererA/s0/t10.4",
+        "workerA/s0/t4.3",
+        "workerA/s0/t6.3",
+        "workerA/s0/t7.3",
+        "workerA/s0/t8.3",
+        "workerA/s0/t9.3",
+        "rendererA/s0/t0.5",
+        "rendererA/s0/t2.5",
+        "rendererA/s0/t3.5",
+        "rendererA/s0/t5.5",
+        "rendererA/s0/t6.5"
+      ],
+      "trigger_event_id": "E3VXHSLY"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I010",
+      "tasks": [
+        "rendererA/s0/t11.5",
+        "rendererA/s0/t0.6",
+        "rendererA/s0/t1.6",
+        "rendererA/s0/t2.6",
+        "workerA/s1/t11.3",
+        "workerA/s1/t1.4",
+        "workerA/s1/t2.4",
+        "workerA/s1/t3.4",
+        "workerA/s1/t4.4",
+        "rendererA/s0/t5.6",
+        "rendererA/s0/t6.6",
+        "rendererA/s0/t7.6",
+        "rendererA/s0/t8.6",
+        "rendererA/s0/t9.6",
+        "rendererA/s0/t10.6"
+      ],
+      "trigger_event_id": "EGDK3EQW"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I011",
+      "tasks": [
+        "rendererB/s1/t4.5",
+        "rendererB/s1/t8.5",
+        "rendererB/s1/t9.5",
+        "workerB/s0/t8.4",
+        "workerB/s0/t9.4",
+        "workerB/s0/t10.4",
+        "workerB/s0/t11.4",
+        "workerB/s0/t0.5",
+        "workerB/s0/t1.5",
+        "workerB/s0/t2.5",
+        "rendererB/s1/t11.5",
+        "rendererB/s1/t0.6",
+        "rendererB/s1/t1.6",
+        "rendererB/s1/t2.6",
+        "rendererB/s1/t3.6"
+      ],
+      "trigger_event_id": "EQQNHDMQ"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I012",
+      "tasks": [
+        "rendererB/s1/t7.6",
+        "rendererB/s1/t9.6",
+        "rendererB/s1/t10.6",
+        "workerB/s1/t1.5",
+        "workerB/s1/t4.5",
+        "workerB/s1/t5.5",
+        "workerB/s1/t6.5",
+        "workerB/s1/t7.5",
+        "workerB/s1/t8.5",
+        "rendererB/s1/t0.7",
+        "rendererB/s1/t1.7",
+        "rendererB/s1/t2.7",
+        "rendererB/s1/t3.7",
+        "rendererB/s1/t6.7",
+        "rendererB/s1/t7.7"
+      ],
+      "trigger_event_id": "ECJY8D8B"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I013",
+      "tasks": [
+        "rendererB/s1/t1.8",
+        "rendererB/s1/t3.8",
+        "rendererB/s1/t4.8",
+        "rendererB/s1/t5.8",
+        "workerA/s0/t11.4",
+        "workerA/s0/t0.5",
+        "workerA/s0/t1.5",
+        "workerA/s0/t2.5",
+        "workerA/s0/t3.5",
+        "rendererB/s1/t6.8",
+        "rendererB/s1/t7.8",
+        "rendererB/s1/t8.8",
+        "rendererB/s1/t10.8",
+        "rendererB/s1/t11.8",
+        "rendererB/s1/t0.9"
+      ],
+      "trigger_event_id": "E3BSNP25"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I014",
+      "tasks": [
+        "rendererB/s1/t4.9",
+        "rendererB/s1/t6.9",
+        "rendererB/s1/t7.9",
+        "rendererB/s1/t8.9",
+        "workerA/s1/t4.5",
+        "workerA/s1/t6.5",
+        "workerA/s1/t7.5",
+        "workerA/s1/t8.5",
+        "rendererB/s1/t11.9",
+        "rendererB/s1/t0.10",
+        "rendererB/s1/t1.10",
+        "rendererB/s1/t2.10",
+        "rendererB/s1/t3.10",
+        "rendererB/s1/t4.10",
+        "rendererB/s1/t5.10"
+      ],
+      "trigger_event_id": "E6G9XQ89"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I015",
+      "tasks": [
+        "rendererA/s0/t4.8",
+        "rendererA/s0/t6.8",
+        "workerB/s0/t5.6",
+        "workerB/s0/t6.6",
+        "workerB/s0/t8.6",
+        "workerB/s0/t9.6",
+        "workerB/s0/t10.6",
+        "rendererA/s0/t7.8",
+        "rendererA/s0/t9.8",
+        "rendererA/s0/t10.8",
+        "rendererA/s0/t11.8"
+      ],
+      "trigger_event_id": "EADT2T2W"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I016",
+      "tasks": [
+        "rendererA/s0/t1.9",
+        "rendererA/s0/t2.9",
+        "rendererA/s0/t3.9",
+        "workerB/s1/t1.7",
+        "workerB/s1/t4.7",
+        "workerB/s1/t5.7",
+        "workerB/s1/t6.7",
+        "workerB/s1/t7.7",
+        "workerB/s1/t8.7",
+        "workerB/s1/t9.7",
+        "rendererA/s0/t5.9",
+        "rendererA/s0/t6.9",
+        "rendererA/s0/t7.9",
+        "rendererA/s0/t8.9",
+        "rendererA/s0/t9.9",
+        "rendererA/s0/t10.9"
+      ],
+      "trigger_event_id": "E9H75L49"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I017",
+      "tasks": [
+        "rendererA/s1/t1.6",
+        "rendererA/s1/t3.6",
+        "workerA/s0/t4.6",
+        "workerA/s0/t5.6",
+        "workerA/s0/t6.6",
+        "rendererA/s1/t4.6",
+        "rendererA/s1/t5.6",
+        "rendererA/s1/t6.6",
+        "rendererA/s1/t7.6",
+        "rendererA/s1/t9.6",
+        "rendererA/s1/t10.6",
+        "rendererA/s1/t11.6"
+      ],
+      "trigger_event_id": "EEVA3FST"
+    },
+    {
+      "handoff_count": 2,
+      "incident_id": "I018",
+      "tasks": [
+        "rendererA/s1/t0.7",
+        "rendererA/s1/t2.7",
+        "workerA/s1/t1.7",
+        "workerA/s1/t3.7",
+        "workerA/s1/t4.7",
+        "workerA/s1/t5.7",
+        "workerA/s1/t6.7",
+        "rendererA/s1/t4.7",
+        "rendererA/s1/t6.7",
+        "rendererA/s1/t7.7",
+        "rendererA/s1/t8.7",
+        "rendererA/s1/t9.7"
+      ],
+      "trigger_event_id": "ER5KPY39"
+    }
+  ]
+}

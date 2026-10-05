@@ -1,0 +1,30 @@
+artifacts = ["/app/result.json"]
+
+[task]
+name = "afterquery/sourcemap-revision-replay"
+
+[metadata]
+author_name = "Thomas Morison"
+author_email = "matiasv931026@gmail.com"
+difficulty_explanation = "The stack and async trace already require service-worker cache replay, UTF-8 byte-offset to UTF-16 column conversion, indexed Source Map v3 candidate selection, compiler-map composition, robust per-segment clock calibration, and global FIFO MessagePort alignment. The scheduler snapshot adds a third dependent reconstruction: the solver must recover eight committed page chains from a shuffled 68-page crash image containing stale and torn pages, decode token-reusing task records, reconcile 480 privacy-tagged event markers against calibrated trace time, and resolve 141 promise-continuation edges through a versioned heap whose uint16 serials cross wraparound and whose live rows can forward to another promise. Those task edges then have to be combined with the earlier MessagePort ledger to recover complete incident task ancestry, including unmarked continuations. The shipped capture has 26 committed scheduler pages and 494 physical promise-heap rows, of which 470 have valid records. Choosing the highest-generation physical scheduler page instead of the committed hash chain leaves 14 event bindings wrong or missing and introduces ancestry cycles. Treating promise serials as ordinary integers still binds all 480 events but produces only 7 of 18 complete task paths. A nearest-time marker matcher that ignores ring order binds all 480 events yet assigns 9 to the wrong task and breaks one incident path. The capture is synthetic and was generated from a controlled browser/build and async-trace simulation, so cache transitions, map candidates, clock drift, trace loss, scheduler ring generations, and promise versions are known without using production user data. Frontend platform and site-reliability engineers do this kind of reconstruction when browser stack traces, service-worker state, multi-process traces, deployment artifacts, and runtime task provenance disagree during incident response."
+solution_explanation = "Recover the served bundle revision and source-map chain first, then calibrate the process clocks and reconcile MessagePort sends and receives as ordered sequences. For the runtime layer, validate scheduler pages, follow the manifest-backed hash chains, replay each committed task stream so token occurrences and historical parents are unambiguous, and recover live promise creators at each stream snapshot using wraparound serial ordering and forwarding records. Align scheduler MARK records with the calibrated async events under the stated order and timing constraints. Finally combine scheduler-parent edges with the selected cross-process message edges; tracing each error task backward reaches its interaction task and yields the complete task path. The same recovered event/task correspondence supplies the signed marker residuals and queue labels."
+verification_explanation = "The verifier reads only /app/result.json and never imports or executes agent-produced code. It checks all previously established source-map and async results plus 480 scheduler event bindings and 18 complete task paths against sealed expected data. Message transit, causal latency, and scheduler marker residuals use a 0.150 ms absolute comparison tolerance. The largest standard error in the shipped robust clock fits is 42.97 microseconds, so 0.150 ms is about 3.5 times that calibration uncertainty while remaining small relative to the deliberately delayed synchronization samples and to the 1.200 ms scheduler-marker compatibility window. The runtime reconstruction is also checked by discrete identities, so broad numeric tolerance cannot hide a wrong page, task, or promise interpretation. Fresh near-miss runs on the shipped files give the following separations: selecting the highest-generation scheduler page per sequence matches only 470 of 480 events, leaves 14 event/task bindings wrong or missing, and creates five ancestry-cycle starts; using ordinary numeric ordering for the promise serials leaves all 480 bindings intact but only 7 of 18 incident task paths complete, with 12 paths differing from reference; independently taking the nearest compatible MARK without preserving ring order still matches 480 events but assigns 9 to the wrong task and breaks one incident path. Earlier checks remain discriminating: fitting all nine clock samples moves 135 of 145 message transit values beyond 0.150 ms, ignoring worker cache state changes 20 of 72 ordinary frame tuples and 17 of 54 async frame tuples, and always choosing the first source-map candidate gets 4 of 8 map selections wrong."
+category = "Software"
+subcategory = "Frontend"
+tags = ["debugging", "source-maps", "async-tracing"]
+expert_time_estimate_hours = 8.0
+relevant_experience = "Professional software engineering experience with frontend production debugging, JavaScript build artifacts, service-worker caching, source maps, browser multi-process tracing, and asynchronous incident reconstruction."
+
+[verifier]
+timeout_sec = 120.0
+environment_mode = "separate"
+
+[agent]
+timeout_sec = 7200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 2
+memory_mb = 2048
+storage_mb = 2048
+gpus = 0

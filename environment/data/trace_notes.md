@@ -1,0 +1,11 @@
+# Asynchronous trace conventions
+
+The async capture came from renderer and service-worker processes whose monotonic clocks were sampled independently. Within one `(process, segment)` pair the clock is affine: `capture_us = local_us * scale + offset`. Each segment has nine rows in `clock_samples.csv`. Exactly seven are ordinary synchronization samples with absolute timestamp error no greater than 120 microseconds; two were delayed in the tracing path and may be displaced by as much as 12 milliseconds. The supported clock model is the affine transform having seven samples within 150 microseconds. If several transforms meet that support count, use the one with the smallest RMS residual on its supporting samples. Clock segments are independent after a process restart.
+
+`async_events.csv` is a merged log and its row order has no meaning. `parent_event_id` records trustworthy same-process causality. Cross-process causality is not recorded directly. `message_send` and `message_recv` rows are paired only within the same `channel` and `direction`, and only when their `payload` strings are equal. A receive must occur after its send and no more than 250 milliseconds later in calibrated capture time.
+
+Each channel/direction is reliable and FIFO, but the trace collector can omit send or receive log records. It never invents a message. Reconcile the two observed sequences as order-preserving subsequences. The capture is defined so that the correct reconciliation has the maximum possible number of matched send/receive pairs; among maximum-cardinality reconciliations it has the minimum total positive transit time. This rule applies to the complete channel/direction sequence, not independently to each receive.
+
+For causal reconstruction, a matched cross-process message contributes an edge from its send event to its receive event. Other causal edges come from `parent_event_id`. Every `error` row carrying an `incident_id` has exactly one upstream `interaction` after the message reconciliation is applied. The interaction is the user action that triggered the incident.
+
+`async_frames.csv` contains captured code positions for the interaction, worker step, and error events. Its `load_id`, `chunk`, and `asset_offset_bytes` have the same meaning and mapping conventions as `frames.csv` and `capture_notes.md`.
